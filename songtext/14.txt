@@ -1,14 +1,14 @@
-   D                    D7
-	Hallelujah! Jesus loves me.
-	  G                     D          A
-	Hallelujah! Jesus loves me,
-	  D                     G                       D-A
-	Not for any reason I can see.
-	 D                          D7
-	Even though I often stumble,
-	       G                               D
-	He takes me by the hand,
-	                                         A
-	And He leadeth me on
-	                    D
-		to victory!
+ |D|           |D|*7*
+Hallelujah! Jesus loves me.
+ |G|           |D|      |A|
+Hallelujah! Jesus loves me,
+ |D|           |G|            |D|*-*|A|
+Not for any reason I can see.
+|D|             |D|*7*
+Even though I often stumble,
+   |G|                |D|
+He takes me by the hand,
+                   |A|
+And He leadeth me on
+           |D|
+  to victory!

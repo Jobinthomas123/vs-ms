@@ -1,8 +1,8 @@
-x = 4
+x = 1001
 
 while x < 1136:
     # Open the file for reading
-    with open(f'{x}.txt', 'r') as file:
+    with open(f'songtext/{x}.txt', 'r') as file:
         # Read the contents of the file
         contents = file.read()
 
@@ -10,6 +10,8 @@ while x < 1136:
     new_contents = contents.replace('\t', '    ')
 
     # Open the file for writing
-    with open(f'{x}.txt', 'w') as file:
+    with open(f'songtext/{x}.txt', 'w') as file:
         # Write the modified contents back to the file
         file.write(new_contents)
+
+    x = x + 1

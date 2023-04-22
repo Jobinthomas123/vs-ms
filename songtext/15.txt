@@ -1,21 +1,21 @@
-              D
-	I am free! I am free!
-	              A
-	I am free to be the servant
-	                  D
-		of the Lord. x2
+       |D|
+I am free! I am free!
+       |A|
+I am free to be the servant
+          |D|
+  of the Lord. *x2*
 
-	        G                 -Em7
-	He taught me
-	                     D                  -Bm
-		how to praise Him,
-	        Em7         A                D
-	He taught me how to sing
-	     G    D7
-		His songs,
-	        G                   A           D     -Bm
-	He taught me how to love;
-	           Em                      A7
-	I am free to be the servant
-	                   D
-		of the Lord.
+    |G|       *-*|E|*m7*
+He taught me
+           |D|       *-*|B|*m*
+  how to praise Him,
+    |E|*m7*     |A|        |D|
+He taught me how to sing
+   |G|   |D|*7*
+  His songs,
+    |G|         |A|      |D|  *-*|B|*m*
+He taught me how to love;
+      |E|*m*             |A|*7*
+I am free to be the servant
+          |D|
+  of the Lord.

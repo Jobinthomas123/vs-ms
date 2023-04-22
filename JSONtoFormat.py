@@ -9,7 +9,7 @@ while x < 1136:
     notes = {"C": 0, "C#": 1, "D": 2, "Eb": 3, "E": 4, "F": 5, "F#": 6, "G": 7, "G#": 8, "A": 9, "Bb": 10, "B": 11}
 
     # open the input file for reading
-    with open(f"{x}.txt", "r") as f:
+    with open(f"songtext/{x}.txt", "r") as f:
         text = f.read()
 
     # replace letters with numbers using a regular expression
@@ -17,10 +17,10 @@ while x < 1136:
     text = re.sub(pattern, lambda match: "|" + str(notes[match.group(1)]) + match.group(3), text)
 
     # open the output file for writing
-    with open(f"{x}.txt", "w") as f:
+    with open(f"songtext/{x}.txt", "w") as f:
         f.write(text)
 
-    with open(f"{x}.txt", 'r') as f:
+    with open(f"songtext/{x}.txt", 'r') as f:
         lines = f.readlines()
         one_line = ''.join([line.rstrip('\n') + '\n' for line in lines])
 
@@ -37,3 +37,5 @@ while x < 1136:
     # save the updated song data back to the json file
     with open(song_json, 'w') as f:
         json.dump(songs, f, indent=4)
+
+    x = x + 1
