@@ -2,7 +2,7 @@ import re
 import json
 x = 4
 
-while x < 1136:
+while x < 27:
     song_json = '/Users/jobinthomas/VirtualSongbook/assets/songs.json'
     song_number = x
 
