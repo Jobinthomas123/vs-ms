@@ -7,7 +7,7 @@ song_json = '/Users/jobinthomas/VirtualSongbook/assets/songs.json'
 song_number = input('Enter song number: ')
 
 with open('song.txt', 'r') as f:
-    lines = [line.strip() for line in f.readlines()]
+    lines = [line.rstrip('\n').lstrip() for line in f.readlines()]
 
 song_string = '\n'.join(lines)  # join the lines with the string "\\n"
 
