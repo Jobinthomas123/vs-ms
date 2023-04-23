@@ -1,14 +1,14 @@
- |D|           |D|*7*
+ |2|           |2|*7*
 Hallelujah! Jesus loves me.
- |G|           |D|      |A|
+ |7|           |2|      |9|
 Hallelujah! Jesus loves me,
- |D|           |G|            |D|*-*|A|
+ |2|           |7|            |2|*-*|9|
 Not for any reason I can see.
-|D|             |D|*7*
+|2|             |2|*7*
 Even though I often stumble,
-   |G|                |D|
+   |7|                |2|
 He takes me by the hand,
-                   |A|
+                   |9|
 And He leadeth me on
-           |D|
+           |2|
   to victory!

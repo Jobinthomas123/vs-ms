@@ -1,18 +1,18 @@
- |D|     |A|   |D|
+ |2|     |9|   |2|
 Fear thou not,
- |G|          |D|        |G|
+ |7|          |2|        |7|
   for I am with thee;
-           |D|    *-*|B|*m*
+           |2|    *-*|11|*m*
 Be not dismayed,
-             |A|
+             |9|
   for I am thy God!
-              |D|       |G|
+              |2|       |7|
 And I will strengthen,
-             |D|        |G|
+             |2|        |7|
 Yea, I will help thee,
-          |D|
+          |2|
 I will uphold thee
-                |E|*m*
+                |4|*m*
 With the right hand
-         |A|        |D|
+         |9|        |2|
   of My righteousness!
