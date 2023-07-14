@@ -1,18 +1,18 @@
-   A
+   |A|
 1. I was a wretch;
-       F#m
+       |F#|m
     I remember who I was.
-          D           A/C#
+          |D|           |A|/|C#|
    I was lost, I was blind,
-           B7             E
+           |B|7             |E|
     I was running out of time.
-    A
+    |A|
    Sin separated;
-         F#m
+         |F#|m
     the breach was far too wide––
-                 D                A/C#
+                 |D|                |A|/|C#|
    But from the far side of the chasm
-        B7              E
+        |B|7              |E|
    You held me in Your sight.
 
 2. So You made a way
@@ -25,21 +25,21 @@
    For the first time I had hope.
 
 Chorus:
-      A
+      |A|
    Thank You, Jesus,
-              D        A
+              |D|        |A|
     for the blood applied;
-               F#m
+               |F#|m
    Thank You, Jesus,
-            B7        E
+            |B|7        |E|
     it has washed me white.
-     F#m  E    D-A
+     |F#|m  |E|    |D|-|A|
    Thank You, Jesus,
-    A/C#       D   E  F#m
+    |A|/|C#|       |D|   |E|  |F#|m
     You have saved my life;
-     D                 A/C#
+     |D|                 |A|/|C#|
    Brought me from the darkness
-          A/E - E   A
+          |A|/|E| - |E|   |A|
     into glorious light.
 
 3. You took my place,
@@ -53,17 +53,17 @@ Chorus:
     by the blood of the Lamb.
 
 Bridge:
-     D
+     |D|
    There is nothing stronger
-             E
+             |E|
    Than the wonder-working power
-           F#m        C#m
+           |F#|m        |C#|m
    Of the blood, the blood––
-         D
+         |D|
    That calls us sons and daughters.
-           E
+           |E|
    We are ransomed by our Father
-                 F#m
+                 |F#|m
    Through the blood,
-         C#m (going to chorus: E)
+         |C#|m (going to chorus: |E|)
     the blood.
