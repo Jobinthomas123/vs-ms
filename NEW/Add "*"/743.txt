@@ -1,38 +1,38 @@
-     C
+     |C|
 1. Though the fig tree shall not
-      G
+      |G|
     blossom
-            F                   C
+            |F|                   |C|
    And the vine shall bear no fruit,
-                           G
+                           |G|
    Though the labor of the olive fail,
-       F                      C
+       |F|                      |C|
    The fields shall yield no food,
-              Dm7
+              |D|m7
    Though the flock be cut off
-      G
+      |G|
     from the fold,
-         F                 C
+         |F|                 |C|
    The stalls be void and cold,
-             Dm7—G            C
+             |D|m7—|G|            |C|
    I will rejoice;  I will rejoice.
 
 Chorus:
-   C7        F            G/F
+   |C|7        |F|            |G|/|F|
    I will rejoice in the Lord;
-      Em7                 Am
+      |E|m7                 |A|m
    He is my strength and song.
-             F            G/F
+             |F|            |G|/|F|
    I will rejoice in the Lord;
-       Em7                    Am
+       |E|m7                    |A|m
    He makes my weak hands strong.
-             F          F/G
+             |F|          |F|/|G|
    I will rejoice in my God;
-         C                Am
+         |C|                |A|m
    He’s Lord of all creation.
-           Dm7
+           |D|m7
    I will joy in the
-     G     G7     C
+     |G|     |G|7     |C|
     God of my salvation.
 
 2. Though my heart be cold and
