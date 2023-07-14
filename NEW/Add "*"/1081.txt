@@ -1,18 +1,18 @@
-            A
+            |A|
 1. You are always fighting for us—
-            F#m
+            |F#|m
    Heaven's angels all around;
-          Bm
+          |B|m
    My delight is found in knowing
-            Esus4               E
+            |E|sus4               |E|
    That You wear the Victor's crown.
-             F#m
+             |F#|m
    You're my help and my defender;
-              A
+              |A|
    You're my Savior and my friend.
-              Bm               A
+              |B|m               |A|
    By Your grace I live and breathe
-                E
+                |E|
     to worship You.
 
 2. At the mention of Your greatness,
@@ -25,17 +25,17 @@
     to worship You.
 
 Chorus:
-         D – E – A
+         |D| – |E| – |A|
    Hallelu   —   jah,
-             D  A
+             |D|  |A|
    You have overcome,
-             E  Bm
+             |E|  |B|m
    You have overcome.
-         D–E–F#m
+         |D|–|E|–|F#|m
    Hallelu — jah,
-                    Bm  E7
+                    |B|m  |E|7
    Jesus, You have overcome
-         A   (if going to the verse: D)
+         |A|   (if going to the verse: |D|)
     the world.
 
 3. You are ever interceding
@@ -48,13 +48,13 @@ Chorus:
     to worship You.
 
 Bridge:
-D -                  A
+|D| -                  |A|
    Every high thing must come down
-E -                   Bm
+|E| -                   |B|m
    Every stronghold shall be broken;
-D -              A
+|D| -              |A|
    You wear the Victor's crown.
-    E             Bm
+    |E|             |B|m
    You overcome, You overcome.
 
 4. At the cross the work was
@@ -62,5 +62,5 @@ D -              A
    You were buried in the ground,
    But the grave could
     not contain You
-           Dmaj7     E         A
+           |D|maj7     |E|         |A|
    For You wear the Victor's crown.
