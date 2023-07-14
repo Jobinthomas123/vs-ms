@@ -1,21 +1,21 @@
-       |D| |G|     |D|      |B|m
-1. My Jesus, I love Thee;
-        |E|m   |A|       |D|
+       |D| |G|     |D|      |B|*m*
+*1.* My Jesus, I love Thee;
+        |E|*m*   |A|       |D|
     I know Thou art mine.
-            |G|        |D|   |B|m
+            |G|        |D|   |B|*m*
    For thee all the pleasures
-        |E|m  |A|   |D|
+        |E|*m*  |A|   |D|
     of sin  I resign.
-          |G|       |E|m |A|
+          |G|       |E|*m* |A|
    My gracious Redeemer,
-       |D|  |G|         |A| —|A|7
+       |D|  |G|         |A| *—*|A|*7*
     my Savior art Thou;
-     |D|  |G|     |D|      |B|m
+     |D|  |G|     |D|      |B|*m*
    If ever I loved Thee,
-        |E|m-|A|        |D|
+        |E|*m-*|A|        |D|
     my Jesus, ‘tis now!
 
-2. I love Thee because
+*2.* I love Thee because
    Thou has first loved me,
    And purchased my pardon
     on Calvary’s tree;
@@ -24,7 +24,7 @@
    If ever I loved Thee,
     my Jesus, ‘tis now!
 
-3. I’ll love Thee in life;
+*3.* I’ll love Thee in life;
    I will love Thee in death,
    And praise Thee as long as Thou
     lendest me breath.
@@ -33,7 +33,7 @@
    If ever I loved Thee,
     my Jesus, ‘tis now!
 
-4. In mansions of glory
+*4.* In mansions of glory
    And endless delight,
    I’ll ever adore Thee
     in heaven so bright;
