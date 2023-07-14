@@ -1,32 +1,32 @@
 Chorus:
-    E     E/G#  B        B/D#
+    |E|     |E|/|G#|  |B|        |B|/|D#|
    Come, Lord, Come Lord Jesus;
-         A              E    E/G#
+         |A|              |E|    |E|/|G#|
    The Spirit and the bride say,
-      F#   F#/A#  B4——B
+      |F#|   |F#|/|A#|  |B|4——|B|
     “Come, Lord   Jesus.”
-    E    E/G#   B         B/D#
+    |E|    |E|/|G#|   |B|         |B|/|D#|
    Come, Lord, Come, Lord Jesus;
-         A              B
+         |A|              |B|
    The Spirit and the bride
-          E
+          |E|
     say, Come!
 
-  C#m7               C#m/B
+  |C#|m7               |C#|m/B
 1. When the trumpet sounds
-                Amaj7        B4—B
+                |A|maj7        |B|4—|B|
    The dead in Christ shall rise,
-  C#m7         C#m/B
+  |C#|m7         |C#|m/|B|
    Then we who are alive
-              D              B4—B
+              |D|              |B|4—|B|
     will be caught up in the air.
-  A           B
+  |A|           |B|
    We’ll be forever,
-       E    B/D#      C#m
+       |E|    |B|/|D#|      |C#|m
     forever with the Lord;
-  A                 B
+  |A|                 |B|
    We’ll serve our Bridegroom
-         E—A/B
+         |E|—|A|/|B|
     evermore.
 
 2. Our tears He’ll wipe away;
