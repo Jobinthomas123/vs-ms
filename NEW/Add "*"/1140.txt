@@ -1,15 +1,15 @@
 (Key of A)
-F#m–
+|F#|m–
 1. There is strength
-                D
+                |D|
     within the sorrow;
- E–                         A
+ |E|–                         |A|
    There is beauty in our tears.
-F#m–
+|F#|m–
    And You meet us
-              D
+              |D|
     in our mourning
- E–                            A
+ |E|–                            |A|
    With a love that casts out fear.
 
 2. You are working in our waiting––
@@ -18,17 +18,17 @@ F#m–
    You’re teaching us to trust.
 
 Chorus:
-          D                  A
+          |D|                  |A|
    Your plans are still to prosper,
-           E            F#m
+           |E|            |F#|m
    You’ve not forgotten us,
-           D              A
+           |D|              |A|
    You’re with us in the fire
-              E
+              |E|
     and the flood.
-    D          A      E         F#m
+    |D|          |A|      |E|         |F#|m
    Faithful forever, perfect in love,
-            D        E    A
+            |D|        |E|    |A|
    You are sov’reign over us.
 
 3. You are wisdom unimagined;
@@ -42,21 +42,21 @@ Chorus:
    And Your promises are my delight.
 
 Bridge:
-  A–
+  |A|–
    Even what the enemy means
-        D
+        |D|
     for evil,
-                        Bm7
+                        |B|m7
    You turn it for our good;
-                        E/G#
+                        |E|/|G#|
    You turn it for our good
    And for Your glory.
-  A–
+  |A|–
    Even in the valley
-             D
+             |D|
     You are faithful;
-                           Bm7
+                           |B|m7
    You’re working for our good,
-                           E/G#
+                           |E|/|G#|
    You’re working for our good
    And for Your glory.
