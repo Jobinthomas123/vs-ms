@@ -1,10 +1,10 @@
       |E|             |B|     |E|
-1. I came to Him in dire need;
-       |A|      |B|          |E| – |E|7
+*1.* I came to Him in dire need;
+       |A|      |B|          |E| *–* |E|*7*
    My life I could not change.
           |A|     |B|       |E|
    And, when I saw His mercy so
-      |C#|m
+      |C#|*m*
     great,
       |F#|              |B|
    In love to Him I clave.
@@ -14,17 +14,17 @@
    I was so happy in His work—
    His strength for labor found.
 
-Chorus:
-      |A|         |B|    |E|        |C#|m
+*Chorus:*
+      |A|         |B|    |E|        |C#|*m*
    Oh, I could never live without
-        |A|     |B|       |E| – |E|7
+        |A|     |B|       |E| *–* |E|*7*
     my Savior and my King,
-       |A|       |B|         |E|       |C#|m
+       |A|       |B|         |E|       |C#|*m*
    And I will serve Him till the end
-          |F#|m7     |B|       |E|
+          |F#|*m7*     |B|       |E|
     for what He’s done for me.
 
-2. After some time of serving Him,
+*2.* After some time of serving Him,
    My heart began to doubt;
    I did not know which road to take,
    And to Him I cried out.
@@ -35,7 +35,7 @@ Chorus:
    And once again, His loving hand,
    In mercy took me in.
 
-3. A God of restoration, He
+*3.* A God of restoration, He
    Restored that which was lost;
    And brought me back into
     first love,
@@ -47,7 +47,7 @@ Chorus:
    I never want to leave your side;
    I’ll serve You till the end.
 
-4. My life’s now bound
+*4.* My life’s now bound
     by love’s strong cords;
    I never can go free.
    To Him forever I belong,
@@ -58,7 +58,7 @@ Chorus:
    And so till then I’ll seek His grace,
    Till with Him safe at last.
 
-(Spanish Chorus)
+*(Spanish Chorus)*
 
    Oh, nunca yo podré vivir
     sin mi gran Salvador;
