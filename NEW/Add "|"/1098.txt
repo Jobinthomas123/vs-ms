@@ -1,10 +1,10 @@
-              C
+              |C|
 1. I’ve lost count of all the times
-               Em -
+               |E|m -
     I’ve fallen short,
-           F
+           |F|
    But You always pick me up
-         Am           Gsus4-G
+         |A|m           |G|sus4-G
     and tell me to move forward.
               C
    When I’ve lost the strength to fight
@@ -43,11 +43,11 @@ Chorus:
     I know that I can trust.
 
 Bridge:
-C   C/EF- G
+    C   C/E     F- G
    Your name is holy,
-   C/E G - Am - G/B
+   C/E               G - Am - G/B
    Your name brings liberty;
-   C/E   F/AGsus4 - G
+   C/E            F/A     Gsus4 - G
    Your name sets my soul free,
-   C/EF/G - C
+   C/E          F/G - C
    Your name is victory.

@@ -1,39 +1,39 @@
-Chorus:
+*Chorus:*
   |E|            |A|
    I love the Lord,
             |E|        |B|
     for He heard my voice;
-       |A|        |B|       |E|   —|E|7
+       |A|        |B|       |E|   *—*|E|*7*
    He heard my cry for mercy.
 
-   x2
+   *x2*
    |A|               |B|
    I will call on Him
-        |G#|        |C#|m
+        |G#|        |C#|*m*
     as long as I live,
       |A|
    Because He turned
         |B|        |E|
-    His ear unto me. x2
+    His ear unto me. *x2*
 
         |E|        |A|
-1. The cords of death,
+*1.* The cords of death,
             |E|
     they entangled me;
-       |C#|m              |A|
+       |C#|*m*              |A|
    The anguish of the grave
-           |F#|m  —|B|
+           |F#|*m*  *—*|B|
     came upon me.
-          |E|      |C#|m
+          |E|      |C#|*m*
    I was so overcome
          |A|           |B|
     by trouble and grief,
           |A|              |B|
    Till I called on the name
-            |E|   —|B|
+            |E|   *—*|B|
     of the Lord.
 
-2. For You, O Lord,
+*2.* For You, O Lord,
     have delivered me;
    Your mercy kept my feet
     from falling,
@@ -42,7 +42,7 @@ Chorus:
    I will walk before You,
     O my God.
 
-3. What can I do to repay You, Lord,
+*3.* What can I do to repay You, Lord,
    For all Your goodness
     upon my life?
    I’ll fulfill all my vows
