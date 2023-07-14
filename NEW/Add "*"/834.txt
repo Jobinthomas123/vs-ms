@@ -1,34 +1,34 @@
 Chorus:
-          E         B
+          |E|         |B|
    Great joy, great joy to the
-    E          B        A
+    |E|          |B|        |A|
     ones who stand with God;
-        E            B
+        |E|            |B|
    Great joy, great joy
-      E                  A
+      |E|                  |A|
     flooding through my soul.
-              E        B
+              |E|        |B|
    Though the gates of hell
-         B/D#        C#m
+         |B|/|D#|        |C#|m
     come against my soul,
-                      A
+                      |A|
    With the saints of God
-    F#m        B4 – B7
+    |F#|m        |B|4 – |B|7
     I will prevail.
-          E          B
+          |E|          |B|
    Great joy, great joy
-      A         B       E
+      |A|         |B|       |E|
     flooding through my soul.
 
-          A       B       B7     E
+          |A|       |B|       |B|7     |E|
 1. With promised joy for every trial,
-          E   B-B7    E     —E7
+          |E|   |B|-|B|7    |E|     —|E|7
    I’ll firmly take my stand;
-        A      B
+        |A|      |B|
    For grace abounds
-         B7    C#m
+         |B|7    |C#|m
     and glory, too—
-   C#m/A    F#m       B4  —B
+   |C#|m/|A|    |F#|m       |B|4  —|B|
    All from God’s own hand.
 
 2. All through the day and
