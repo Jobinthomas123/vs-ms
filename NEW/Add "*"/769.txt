@@ -1,20 +1,20 @@
 Chorus:
-      G    G7           C  Am
+      |G|    |G|7           |C|  |A|m
    Behold, this is our God!
-            D      Am7         G
+            |D|      |A|m7         |G|
    We have waited, waited for Him!
-        C/G  G7 C   Am
+        |C|/|G|  |G|7 |C|   |A|m
    This is the Lord!
-           D       D7         G
+           |D|       |D|7         |G|
    We have waited, waited for Him.
 
-      Em        Bm    Em
+      |E|m        |B|m    |E|m
 1. No eye has ever   seen;
-      Am      Am7  Bm
+      |A|m      |A|m7  |B|m
    No ear has ever heard
-        C          D
+        |C|          |D|
    What God has prepared
-        C        D7       G
+        |C|        |D|7       |G|
    For those who wait for Him.
 
 2. Far greater wealth have they
@@ -33,11 +33,11 @@ Chorus:
    She’ll bow before Him and say:
 
 Ending Chorus:
-      G     G7         C  Am
+      |G|     |G|7         |C|  |A|m
    Behold, You are my God!
-           D       Am7        G
+           |D|       |A|m7        |G|
    I have waited, waited for You!
-       C/G G7   C    Am
+       |C|/|G| |G|7   |C|    |A|m
    You are my   Lord!
-           D      D7         G
+           |D|      |D|7         |G|
    I have waited, waited for You.
