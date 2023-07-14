@@ -6,31 +6,31 @@
    But You always pick me up
          |A|m           |G|sus4-G
     and tell me to move forward.
-              C
+              |C|
    When I’ve lost the strength to fight
-                  Em -
+                  |E|m -
     this fight for   You,
-          F
+          |F|
    You remind me through
-               C/G           Gsus4 - G
+               |C|/|G|           |G|sus4 - |G|
     Your power, I can do all things.
 
 Chorus:
-                  C        Em
+                  |C|        |E|m
    Your name is faithful, eternal,
-      F
+      |F|
     merciful and kind.
-                Gsus4     G/B
+                |G|sus4     |G|/|B|
    Your name is loving, gracious—
-       Fm6/C               C - E
+       |F|m6/|C|               |C| - |E|
     it stands the test of time.
-       Am              Em
+       |A|m              |E|m
    When I have called upon Your
-     Am         Dm
+     |A|m         |D|m
     name, I’ve never had to fear.
-         F/G      G
+         |F|/|G|      |G|
    I can always trust, Lord, in
-   C -
+   |C| -
     Your name.
 
 2. When the waves of sin and doubt
@@ -43,11 +43,11 @@ Chorus:
     I know that I can trust.
 
 Bridge:
-    C   C/E     F- G
+    |C|   |C|/|E|     |F|- |G|
    Your name is holy,
-   C/E               G - Am - G/B
+   |C|/|E|               |G| - |A|m - |G|/|B|
    Your name brings liberty;
-   C/E            F/A     Gsus4 - G
+   |C|/|E|            |F|/|A|     |G|sus4 - |G|
    Your name sets my soul free,
-   C/E          F/G - C
+   |C|/|E|          |F|/|G| - |C|
    Your name is victory.
