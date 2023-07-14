@@ -1,42 +1,42 @@
 Chorus:
-      D  Em  D/F#
+      |D|  |E|m  |D|/|F#|
    Above all else, keep me
-     G           A4– A
+     |G|           |A|4– |A|
     faithful to You,
-      G          D/F#
+      |G|          |D|/|F#|
    Steadfast, immoveable,
-        Bm                  A
+        |B|m                  |A|
     in all You’ve called me to.
-         Bm              A/C#
+         |B|m              |A|/|C#|
    If I start to lose my way,
-            D     D/F#     Em7
+            |D|     |D|/|F#|     |E|m7
     if my heart begins to stray
-            G2
+            |G|2
    Draw me close,
-      F#7                     Bm
+      |F#|7                     |B|m
     until Your love breaks through.
-             Esus4– E
+             |E|sus4– |E|
    Above all else,
-            G/A
+            |G|/|A|
     keep me faithful,
-             D
+             |D|
    Lord, to You.
 
-         D        Em     D/F#
+         |D|        |E|m     |D|/|F#|
 1. Dear Jesus, I come to You with
-           G             Asus4 – A
+           |G|             |A|sus4 – |A|
     some questions on my mind;
-               G               D/F#
+               |G|               |D|/|F#|
    There are problems I can’t solve,
-             Bm               A/C#
+             |B|m               |A|/|C#|
    There are answers I can’t find.
-          Bm               D/A
+          |B|m               |D|/|A|
    Yet I know You’re the Solution
-          G                  D/F#
+          |G|                  |D|/|F#|
    When things are still unclear,
-           Em                G
+           |E|m                |G|
    That is why I make this plea
-                A4 – A
+                |A|4 – |A|
     for You to hear:
 
 2. You told us that in these days
@@ -59,17 +59,17 @@ Chorus:
     and grace is in Your eyes.
 
 Bridge:
-            D
+            |D|
    I will serve You
-   Em–        D/F#    – Gm6
+   |E|m–        |D|/|F#|    – |G|m6
     because I love You;
-            Bm   A–       G
+            |B|m   |A|–       |G|
    You have given life to me.
-           D
+           |D|
    I will follow
-   Em–      D/F#     Gm6
+   |E|m–      |D|/|F#|     |G|m6
     until I hear You say,
-         Bm               A
+         |B|m               |A|
    “Well done, faithful servant,
-             G
+             |G|
     come to Me.”
