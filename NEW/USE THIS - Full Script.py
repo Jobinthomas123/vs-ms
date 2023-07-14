@@ -31,6 +31,18 @@ for filename in os.listdir(source_folder):
                 print(f"Moved {filename} to the review folder.")
 
 
+for filename in os.listdir(source_folder):
+    if filename.endswith('.txt'):  # Consider only text files
+        file_path = os.path.join(source_folder, filename)
+        with open(file_path, 'r') as file:
+            content = file.read()
+            count = content.count('*')
+            if count % 2 != 0:  # Check if the count is an even number
+                # Move the file to the destination folder
+                shutil.move(file_path, os.path.join(destination_folder_review, filename))
+                print(f"Moved {filename} to the review folder.")
+
+
 # Specify the source and destination folders
 source_folder = completed
 destination_folder = with_astrick
