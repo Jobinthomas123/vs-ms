@@ -1,16 +1,16 @@
-    D          F#m7        G
+    |D|          |F#|m7        |G|
 1. You are the Lily of the Valley,
-         D
+         |D|
     oh, yes!
-               F#m7        G
+               |F#|m7        |G|
    You are the Lily of the Valley,
-         D
+         |D|
     oh, yes!
-               F#m7        G
+               |F#|m7        |G|
    You are the Lily of the Valley,
-                  D      A       D
+                  |D|      |A|       |D|
    And I love You so; I love You so.
-     G        D     A        D
+     |G|        |D|     |A|        |D|
    I love You so. I love You so.
 
 2. You are the Rose of Sharon,
