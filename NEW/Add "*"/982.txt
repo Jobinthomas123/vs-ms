@@ -1,28 +1,28 @@
-              E
+              |E|
 1. There's a land that is
-     A           E
+     |A|           |E|
     fairer than day,
-                               B
+                               |B|
    And by faith we can see it afar;
-            E           A         E
+            |E|           |A|         |E|
    For the Father waits over the way
 
    To prepare us
-        B             E
+        |B|             |E|
     a dwelling place there.
 
 Chorus:
-            E           B
+            |E|           |B|
    In the sweet by and by
-            B7
+            |B|7
    We shall meet on that
-                E
+                |E|
     beautiful shore.
-           E7          A
+           |E|7          |A|
    In the sweet by and by
-             E
+             |E|
    We shall meet on that
-     B          E
+     |B|          |E|
     beautiful shore.
 
 2. We shall sing on that
