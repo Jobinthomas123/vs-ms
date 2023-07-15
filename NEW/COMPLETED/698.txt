@@ -1,43 +1,43 @@
-              |C|          |C|maj7
+              |C|          |C|*maj7*
 1. There is peace and contentment
-            |F|       |F|m6      |C|
+            |F|       |F|*m6*      |C|
     in the Father’s house today.
-              |C|         |A|m7
+              |C|         |A|*m7*
    Abundant food on the table
-         |D|m                |G|
+         |D|*m*                |G|
     and no one is turned away.
-             |C|           |C|7
+             |C|           |C|*7*
    There is singing and laughter
-            |F|    |C|/|E|  |D|m
+            |F|    |C|*/*|E|  |D|*m*
     as the hours pass by;
-           |C|/|G|            |A|m
+           |C|*/*|G|            |A|*m*
    Then a hush calms the singing
-            |D|m7       |G|       |C|
+            |D|*m7*       |G|       |C|
     at the Father’s mournful cry:
 
-Chorus:
+*Chorus:*
    |C|           |F|
    My house is full,
-         |C|           |A|m
+         |C|           |A|*m*
     but My field is empty.
-    |C|               |A|m7
+    |C|               |A|*m7*
    Who will go and work
-              |D|m7  |G|
+              |D|*m7*  |G|
     for Me today?
          |C|                 |F|
    My children, hear the cry
-         |C|                 |A|m
+         |C|                 |A|*m*
     of a million precious souls.
-    |C|               |D|m7   |G|
+    |C|               |D|*m7*   |G|
    Who will go and show them
-         |E|7   |A|m7
+         |E|*7*   |A|*m7*
     the Way?
- |F|m7 |C|               |D|m7 |D|m7/|G|
+ |F|*m7* |C|               |D|*m7* |D|*m7/*|G|
    Who will go and show them
           |C|
     the Way?
 
-2. Lift your eyes from the table;
+*2.* Lift your eyes from the table;
     look out through the
     windowpane.
    Just beyond this house of plenty
@@ -48,7 +48,7 @@ Chorus:
     children
     hear the Father sadly say:
 
-3. Many hopeless souls are crying.
+*3.* Many hopeless souls are crying.
    Who will go and win the lost?
    Soon the harvest will be over.
    Will you quickly count the cost?
@@ -58,7 +58,7 @@ Chorus:
    As a million souls are dying
    With no knowledge of My name.
 
-4. You have just one life,
+*4.* You have just one life,
     My children;
    That so soon will pass away.
    When you stand here in
@@ -71,7 +71,7 @@ Chorus:
    Won’t you now take up your
     cross?
 
-5. Come, forsake your all,
+*5.* Come, forsake your all,
     My children;
    Bear your cross and follow Me.
    I have shown you life eternal;
