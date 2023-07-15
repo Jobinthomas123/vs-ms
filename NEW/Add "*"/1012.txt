@@ -1,26 +1,26 @@
-   C-G/B    C    Gmaj7/D
+   |C|-|G|/|B|    |C|    |G|maj7/|D|
 1. I then shall live
-    C  G/B       F/A     G/B-C
+    |C|  |G|/|B|       |F|/|A|     |G|/|B|-|C|
     as one who's been forgiven;
-    C   G/B  C    Gmaj7/D
+    |C|   |G|/|B|  |C|    |G|maj7/|D|
    I'll walk with joy
-    C   G/B     F     G   C
+    |C|   |G|/|B|     |F|     |G|   |C|
     to know my debts are paid.
-   C     G/B  Am
+   |C|     |G|/|B|  |A|m
    I know my name
-              Em    G7    Dm
+              |E|m    |G|7    |D|m
     is clear before my Father;
-  Dm-Edim7-Dm/F-C/G
+  |D|m-|E|dim7-|D|m/|F|-|C|/|G|
    I am His  child
-       F/G          E
+       |F|/|G|          |E|
     and I am not afraid.
-    C      G/B-Am
+    |C|      |G|/|B|-|A|m
    So greatly  pardoned
-         Em      G7     Dm
+         |E|m      |G|7     |D|m
     I'll forgive my brother;
-    Dm-Edim7-Dm/F-C/G
+    |D|m-|E|dim7-|D|m/|F|-|C|/|G|
    The  law of   love
-      F/G    G7     C
+      |F|/|G|    |G|7     |C|
     I gladly will obey.
 
 2. I then shall live as one
@@ -50,5 +50,5 @@
     a hungry world through me.
 
 Ending:
-    Ab-C  Fm-C/E Fm/D - C
+    |A|b-|C|  |F|m-|C|/|E| |F|m/|D| - |C|
    Amen,  Amen,   Amen.
