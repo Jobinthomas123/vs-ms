@@ -1,20 +1,20 @@
 Chorus:
-     G       G/B      C     G
+     |G|       |G|/|B|      |C|     |G|
    Fear thou not, for I am with thee;
-             Em           Am      D
+             |E|m           |A|m      |D|
    Be not dismayed, for I am thy God.
-   G        G/E       C    G/B
+   |G|        |G|/|E|       |C|    |G|/|B|
    I will strengthen and uphold thee
-   Am        D              G
+   |A|m        |D|              |G|
    With My righteous right hand.
 
-  G-             C
+  |G|-             |C|
 1. Moses in the wilderness
-  A-              D
+  |A|-              |D|
    Came unto the burning bush.
- B7-              Em         -G/B
+ |B|7-              |E|m         -|G|/|B|
    From the fire God did say,
-  C        D7       G
+  |C|        |D|7       |G|
    “I will be with you.”
 
 2. Joshua at Jericho
