@@ -1,24 +1,24 @@
 Chorus:
-   E-B/D#    A/C#
+   |E|-|B|/|D#|    |A|/|C#|
    Praise to You
-       E               -B/D#
+       |E|               -|B|/|D#|
    For all that You brought
-           -A/C#
+           -|A|/|C#|
     me through.
-               C#m
+               |C#|m
    In times of need,
-          G#m          C#m     Dmaj7
+          |G#|m          |C#|m     |D|maj7
    You’ve always been there for me.
-   F#m  -   E/G# - Amaj7 -  A/B     E
+   |F#|m  -   |E|/|G#| - |A|maj7 -  |A|/|B|     |E|
    Pra   –   a   –   a   –  aise to You.
 
-               E              B/D#
+               |E|              |B|/|D#|
 1. Lord, You said if I would follow,
-                      A/C#
+                      |A|/|C#|
    I must take up my cross;
-                          B/D#
+                          |B|/|D#|
    For the trials would refine me,
-                         F#m7-B
+                         |F#|m7-|B|
    To make me pure from dross.
 
 2. When rejected, I’ll remember
@@ -40,11 +40,11 @@ Chorus:
    I’m living for that day.
 
 Bridge:
-   -B -A
+             -|B|      -|A|
    I will wait on You;
-F#m  -Bsus4
+   |F#|m                         -|B|sus4
    Lord, You’ll bring me through.
-   -B   -A/C#
+             -|B|      -|A|/|C#|
    I will wait on You;
-F#m  -Bsus4
+   |F#|m                          -|B|sus4
    Lord, You’ll bring me through.
