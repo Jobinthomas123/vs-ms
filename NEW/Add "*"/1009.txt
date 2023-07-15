@@ -1,34 +1,34 @@
-            E
+            |E|
 1. You are merciful
-           A/E     E
+           |A|/|E|     |E|
     to the lowest one;
-            E        B/E     E
+            |E|        |B|/|E|     |E|
    You are wonderful and so kind.
-             E
+             |E|
    You are beautiful;
-           A/E      E
+           |A|/|E|      |E|
     no one else compares.
-             E
+             |E|
    You’re majestic, Lord,
-            B/E     E
+            |B|/|E|     |E|
     and the reason why...
 
 Chorus:
-                      B
+                      |B|
    The reason why we sing
-                E/G# - A
+                |E|/|G#| - |A|
     and give You our hearts,
-                      B
+                      |B|
    The reason why we worship
-          C#m
+          |C#|m
     Your name,
-       E/G#            B
+       |E|/|G#|            |B|
    The reason why our lips
-                     C#m
+                     |C#|m
     are singing Your praises—
-               F#m
+               |F#|m
    You are the reason;
-               B
+               |B|
    You’re the reason.
 
 2. You are holy, Lord, and so wise,
@@ -48,5 +48,5 @@ Chorus:
     and the reason why...
 
 Ending:
-              E
+              |E|
 ... for our praise.
