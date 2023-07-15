@@ -1,30 +1,30 @@
 Chorus:
-       C
+       |C|
    Be loosed ye bands of wickedness;
-       G            C
+       |G|            |C|
    Be undone heavy burdens.
 
    Oppressed go free;
-       Am        G          C
+       |A|m        |G|          |C|
    My liberty I give unto thee.
 
    Oppressed go free;
-       Am        G          C
+       |A|m        |G|          |C|
    My liberty I give unto thee.
 
-           C               F
+           |C|               |F|
 1. All authority has been given
-         C
+         |C|
     unto Me;
-          G             G7  C
+          |G|             |G|7  |C|
    In My name, demons flee.
-                           G
+                           |G|
    Know I can break your chains;
-             C/E          F
+             |C|/|E|          |F|
    In faith call upon My name.
-        Am             G
+        |A|m             |G|
    I’m moving in your midst,
-               C  - F/A
+               |C|  - |F|/|A|
     so be now free.
 
 2. I have seen your tears;
