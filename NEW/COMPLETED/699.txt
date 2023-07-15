@@ -1,24 +1,24 @@
   |D|
-1. When I survey
-    |A|-|B|  |E|m   |A|7   |D|
+*1.* When I survey
+    |A|*-*|B|  |E|*m*   |A|*7*   |D|
     the wondrous cross,
-                  |D|4   |D|    |B|m   |A|
+                  |D|*4*   |D|    |B|*m*   |A|
    On which the Prince of glory died,
-   |D|              |A|-|B| |E|m    |A|7   |D|
+   |D|              |A|*-*|B| |E|*m*    |A|*7*   |D|
    My richest gain I count but loss,
-    |B|m          |F#|m
+    |B|*m*          |F#|*m*
    And pour contempt
-    |B|m   |E|m    |A|7    |D|
+    |B|*m*   |E|*m*    |A|*7*    |D|
     on   all   my pride.
 
-2. Forbid it, Lord, that I should boast,
+*2.* Forbid it, Lord, that I should boast,
    Save in the death of Christ
     my God;
    All the vain things that charm
     me most,
    I sacrifice them to His blood.
 
-3. See, from His head,
+*3.* See, from His head,
     His hands, His feet,
    Sorrow and love flow
     mingled down.
@@ -27,7 +27,7 @@
    Or thorns compose so rich
     a crown?
 
-4. Were the whole realm of
+*4.* Were the whole realm of
     nature mine,
    That were a present far too small;
    Love so amazing, so divine,
