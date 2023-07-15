@@ -1,32 +1,32 @@
 Chorus:
-    C
+    |C|
    Heal me, O Lord,
-     F/A      G/B C
+     |F|/|A|      |G|/|B| |C|
    And I will be healed;
-    C/E         F          G
+    |C|/|E|         |F|          |G|
    Save me, and I will be saved.
-     Am        Am/G
+     |A|m        |A|m/|G|
    I call unto You,
-        F           D/F#
+        |F|           |D|/|F#|
    For Your Word is true.
-   Fmaj7        G          Am7
+   |F|maj7        |G|          |A|m7
    Heal me, and I will be healed.
-    Dm          G          C
+    |D|m          |G|          |C|
    Heal me, and I will be healed.
 
-              F
+              |F|
 1. Send Your Word, Lord,
-     Dm            C/E
+     |D|m            |C|/|E|
    And I will be whole;
-    C      Am        Dm         G
+    |C|      |A|m        |D|m         |G|
    Heal my body, my spirit, my soul.
-           F             Dm
+           |F|             |D|m
    By the pow’r of Your Word
-      Em      Am
+      |E|m      |A|m
    It will be done;
-         C      Am7
+         |C|      |A|m7
    Just say the word, Lord,
-      Dm       G   C - F/A - G/B
+      |D|m       |G|   |C| - |F|/|A| - |G|/|B|
    And it will be done.
 
 2. I am strengthened
