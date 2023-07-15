@@ -1,26 +1,26 @@
 Chorus:
-   Gm
+   |G|m
    Arise, oh people of Judah;
-        Cm               Gm
+        |C|m               |G|m
    The Lord goes before you.
 
    Rejoice, oh children of Zion;
-        Cm                D4  D
+        |C|m                |D|4  |D|
    He’s ambushing your enemies.
-   Cm    Bbmaj7
+   |C|m    |B|bmaj7
    As we praise Him,
-      Adim7         D    Gm
+      |A|dim7         |D|    |G|m
    He is giving us victory;
-      Eb         F      D/F#    Gm
+      |Eb|         |F|      |D|/|F#|    |G|m
    So arise, the battle is the Lord’s.
 
-   Gm                     Cm
+   |G|m                     |C|m
 1. This is no time to be afraid;
- Gm                         Bb   D4 D
+ |G|m                         |Bb|   |D|4 |D|
    The Lion of Judah is our aid.
- Cm7                        Bbmaj7
+ |C|m7                        |B|bmaj7
    As we praise Him, He will free us;
- Cm7                        D4   D
+ |C|m7                        |D|4   |D|
    Arise, oh Zion, give Him praise.
 
 2. This is the time to declare war;
@@ -29,7 +29,7 @@ Chorus:
    Yahweh conquers when we praise.
 
 (Bridge)
-    Gm
+    |G|m
    Give Him the praise;
 
    Every hand raise—
@@ -38,18 +38,18 @@ Chorus:
 
    Come adore Him.
 
-    Cm
+    |C|m
    O clap your hands;
-    D4
+    |D|4
    Praise Him in dance—
-         Gm
+         |G|m
    He’s worthy!
 
    Bow before Him.
 
-   Cm
+   |C|m
    Give Him the praise;
-   D4
+   |D|4
    O bless His name—
-         Gm
+         |G|m
    He’s worthy!
