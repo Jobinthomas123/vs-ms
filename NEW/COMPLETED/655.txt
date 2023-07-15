@@ -1,6 +1,6 @@
    |E|
-1. Look what Jesus did
-            |A|/|E|    |E|   |A|/|E|    |E|
+*1.* Look what Jesus did
+            |A|*/*|E|    |E|   |A|*/*|E|    |E|
    When He washed me, washed me;
 
    Look what Jesus did
@@ -10,7 +10,7 @@
     with His blood.
     |E|
    Look what Jesus did
-            |A|/|E|    |E|   |A|/|E|    |E|
+            |A|*/*|E|    |E|   |A|*/*|E|    |E|
    When He washed me, washed me;
 
    Look what Jesus did
@@ -23,12 +23,12 @@
    I am saved and I know I  am.
          |B|            |E|  |B|  |E|
    I am saved and I know I  am.
-                           |C#|m7
+                           |C#|*m7*
    I am saved and I know I am.
-      |F#|m7     |B|      |E|
+      |F#|*m7*     |B|      |E|
    I know, I know I’m saved.
 
-2. Look what Jesus did
+*2.* Look what Jesus did
    When He touched me,
     touched me;
    Look what Jesus did
