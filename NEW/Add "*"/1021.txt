@@ -1,30 +1,30 @@
 Chorus:
-    C
+    |C|
    God of all grace,
-              F        C
+              |F|        |C|
     You have saved my soul;
-                          F
+                          |F|
    Humbly I go to Your throne,
-    G Am
+    |G| |A|m
     O Lord.
-             F
+             |F|
    It’s by grace I am saved
-              G
+              |G|
     through faith;
-              F
+              |F|
    It is the gift of God.
-              C
+              |C|
    It is the gift of God.
 
-    Am
+    |A|m
 1. Washed by the blood
-                G    Am
+                |G|    |A|m
     of the spotless Lamb,
-    C                         G  C
+    |C|                         |G|  |C|
    Washed from the sinful man I am,
-    F                        C
+    |F|                        |C|
    That I should be to the praise
-                     G
+                     |G|
     of the glory of grace.
 
 2. Word was made flesh
