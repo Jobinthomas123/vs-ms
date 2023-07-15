@@ -1,28 +1,28 @@
 Chorus:
-   D            G
+   |D|            |G|
    Willing to share,
-        A          D
+        |A|          |D|
    I’m willing to bear
-         G        D     E7       A
+         |G|        |D|     |E7|       |A|
    The cross that Jesus bore for me;
-    D           G
+    |D|           |G|
    Bearing the pain,
-         A            Bm
+         |A|            |B|m
     the reproach and shame,
-      G        A     D
+      |G|        |A|     |D|
    He died to set me free.
 
-     G           A
+     |G|           |A|
 1. Teach me the way,
-        F#m         Bm
+        |F#|m         |B|m
     the way of the cross,
-       Em         A      D  D7
+       |E|m         |A|      |D|  |D|7
    To understand all it means:
-       G        A
+       |G|        |A|
    To die to myself
-          F#       Bm
+          |F#|       |B|m
     that Jesus may live,
-         E        E/G#        A  A7
+         |E|        |E|/|G#|        |A|  |A|7
    His fragrance revealed in me.
 
 2. I must not shun
