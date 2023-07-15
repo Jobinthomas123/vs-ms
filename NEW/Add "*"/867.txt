@@ -1,37 +1,37 @@
- A                   D
+ |A|                   |D|
    Draw me close to You;
- E              A
+ |E|              |A|
    Never let me go.
- E              D
+ |E|              |D|
    I lay it all down again
- F#m
+ |F#|m
    To hear You say
-        Dmaj7           -E
+        |D|maj7           -|E|
     that I’m Your friend.
- A               D
+ |A|               |D|
    You are my desire;
- E                  A
+ |E|                  |A|
    No one else will do,
- E/G#
+ |E|/|G#|
    Cause nothing else
-           D
+           |D|
      could take Your place
- F#m
+ |F#|m
    To feel the warmth
-        Dmaj7-E
+        |D|maj7-|E|
      of Your embrace.
- A                  Esus7
+ |A|                  |E|sus7
    Help me find the way;
-     E               A -D -E
+     |E|               |A| -|D| -|E|
    Bring me back to You.
 
- A        E      D
+ |A|        |E|      |D|
    You’re all I want.
- A        E        D     Esus7 -E7
+ |A|        |E|        |D|     |E|sus7 -|E|7
    You’re all I’ve ever needed.
- A        E     D
+ |A|        |E|     |D|
    You’re all I want.
-   Esus7        E       A
+   |E|sus7        |E|       |A|
    Help me know You are near.
 
 
