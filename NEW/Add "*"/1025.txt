@@ -1,20 +1,20 @@
-    E              B
+    |E|              |B|
 1. Joyful, joyful we adore Thee,
-    E             E/B     B
+    |E|             |E|/|B|     |B|
    God of glory, Lord of love.
-    E
+    |E|
    Hearts unfold
-           B        G#
+           |B|        |G#|
     like flowers before Thee
-   C#m     E/G#    F#m-B-E
+   |C#|m     |E|/|G#|    |F#|m-|B|-|E|
    Opening to  the sun  above.
-    B          E       B       E
+    |B|          |E|       |B|       |E|
    Melt the clouds of sin and sadness
-     B        G#      C#m  F#7 B
+     |B|        |G#|      |C#|m  |F#|7 |B|
    Drive the dark of doubt  away.
-    E   E/D   A/C#    Am/C
+    |E|   |E|/|D|   |A|/|C#|    |A|m/|C|
    Giver of immortal gladness,
-   E/B               B7       E
+   |E|/|B|               |B|7       |E|
    Fill us with the light of day.
 
 2. All Thy works
