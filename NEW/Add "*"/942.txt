@@ -1,36 +1,36 @@
-   A                    D2/A
+   |A|                    |D|2/|A|
 1. You are not a god created
-            A
+            |A|
    By human hands;
-   A                   D2/A
+   |A|                   |D|2/|A|
    You are not a god dependent
-                 A
+                 |A|
    On any mortal man.
-   A             A/G#   F#m7
+   |A|             |A|/|G#|   |F#|m7
    You are not a god in need of
-   D2              A/C#
+   |D|2              |A|/|C#|
    Anything we can give;
-   A       E/G#
+   |A|       |E|/|G#|
    By Your plan,
-          C#m7            D2
+          |C#|m7            |D|2
    That's just the way it is.
 
 Chorus
-                A
+                |A|
    You are God alone!
-                     E/G#
+                     |E|/|G#|
    From before time began,
-                    F#m7
+                    |F#|m7
    You were on Your throne;
-                D2
+                |D|2
    You were God alone.
-             A
+             |A|
    And right now,
-                         E/G#
+                         |E|/|G#|
    In the good times and bad,
-   C#/F            F#m7
+   |C#|/|F|            |F#|m7
    You are on Your throne;
-               D2
+               |D|2
    You are God alone.
 
 2. You're the only God Whose power
@@ -45,11 +45,11 @@ Chorus
 
 Bridge:
    x2
-       A
+       |A|
    Unchangeable,
-       E/G#
+       |E|/|G#|
    Unshakable,
-       F#m
+       |F#|m
    Unstoppable—
-                   D2
+                   |D|2
    That's what You are! x2
