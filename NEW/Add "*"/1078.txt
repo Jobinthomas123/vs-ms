@@ -1,13 +1,13 @@
-(Key: D)
-   Em
+(Key: |D|)
+   |E|m
 1. All of creation,
 
    All of the earth,
-   Bm
+   |B|m
    Make straight a highway,
 
    A path for the Lord—
-D–                  A
+|D|–                  |A|
    Jesus is coming soon.
 
 2. Call back the sinner,
@@ -17,19 +17,19 @@ D–                  A
    Jesus is coming soon.
 
 Chorus:
-Bm–              G                D
+|B|m–              |G|                |D|
    Like a bride waiting for her groom
-               F#m7             Bm
+               |F#|m7             |B|m
    We'll be a church ready for You.
-                G               D
+                |G|               |D|
    Every heart longing for our King,
-      F#m          G –
+      |F#|m          |G| –
    We sing, "Even so,   come,
-        D       A
+        |D|       |A|
    Lord Jesus, come.
-         G –
+         |G| –
    Even so,  come,
-        D       A
+        |D|       |A|
    Lord Jesus, come.”
 
 3. There will be justice,
@@ -39,11 +39,11 @@ Bm–              G                D
    Jesus is coming soon.
 
 Bridge:
-          G
+          |G|
    So we wait,
-       Bm       A
+       |B|m       |A|
    We wait for You.
-            G
+            |G|
    God, we wait;
-           Bm     A
+           |B|m     |A|
    You're coming soon.
