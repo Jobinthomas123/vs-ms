@@ -1,36 +1,36 @@
-            D
+            |D|
 1. Draw me closer, Lord,
-           A/C#
+           |A|/|C#|
    To Your secret place;
-          Bm
+          |B|m
    Let me feel Your fire
-    Bm7           G
+    |B|m7           |G|
    Burning in my soul.
-                 D
+                 |D|
    Your voice I hear;
-               A/C#
+               |A|/|C#|
    Your face I see—
-       Bm             Bm/A
+       |B|m             |B|m/|A|
    The wonder and the majesty
-        G
+        |G|
     of You.
 
 Chorus:
-       A/D - D
+       |A|/|D| - |D|
    Hallelu-jah,
-           F#m7
+           |F#|m7
    Come and fill me, Lord;
-   Bm                 D/F#
+   |B|m                 |D|/|F#|
    Fan the flames of love
-               G
+               |G|
     within my soul.
-       A/D - D
+       |A|/|D| - |D|
    Hallelu-jah,
-             A/C#
+             |A|/|C#|
    Send Your fire, Lord;
-   Bm          Bm/A
+   |B|m          |B|m/|A|
    Purify and cleanse me—
-            G –G/A
+            |G| –|G|/|A|
    Make me holy.
 
 2. You are all I want,
@@ -42,7 +42,7 @@ Chorus:
    Oh Lord, to You.
 
 Ending:
- Bm            D/A
+ |B|m            |D|/|A|
    Purify and cleanse me;
-            G-A    D
+            |G|-|A|    |D|
    Make me holy, Lord.
