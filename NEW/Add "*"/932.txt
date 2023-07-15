@@ -1,30 +1,30 @@
 Chorus:
-    D        A
+    |D|        |A|
    Jesus is Lord,
-           G               A
+           |G|               |A|
    To the glory of God the Father.
-   D         A
+   |D|         |A|
    Jesus is Lord;
-     G                  A4    A/C#
+     |G|                  |A|4    |A|/|C#|
    Above Him there’s no other.
-   G      D/F#   G     A
+   |G|      |D|/|F#|   |G|     |A|
    He is worthy, He is God.
-         Em
+         |E|m
    Every knee shall bow,
-         D/F#
+         |D|/|F#|
    Every tongue confess,
-    G    G/A       D
+    |G|    |G|/|A|       |D|
    Jesus Christ is Lord!
 
-       G       D/F#     A
+       |G|       |D|/|F#|     |A|
 1. No power of hell prevails
-         Em    A      D    Am  D7
+         |E|m    |A|      |D|    |A|m  |D|7
    Where Jesus is the King.
-      G          A
+      |G|          |A|
    He died to redeem us
-    F#m   F#   Bm    B/D#
+    |F#|m   |F#|   |B|m    |B|/|D#|
    From every curse;
-    G       D/F#  G       G/A - A
+    |G|       |D|/|F#|  |G|       |G|/|A| - |A|
    His blood has made us free.
 
 2. Yea, sing and shout, oh Zion;
