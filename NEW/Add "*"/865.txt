@@ -1,28 +1,28 @@
-    A     D               E
+    |A|     |D|               |E|
 1. Lord, let Your light shine
-            A
+            |A|
     through me,
-         D
+         |D|
    That others may see
-       E            A
+       |E|            |A|
    Not my life but Thine:
-         D
+         |D|
    Your nature divine
-     E           A
+     |E|           |A|
     lived out in me.
 
 Chorus:
-             A        D      A
+             |A|        |D|      |A|
    Let Your power prevail in me;
-          D          E
+          |D|          |E|
    In my weakness reveal
-            A
+            |A|
     Your strength.
-      D           E
+      |D|           |E|
    As I learn to die,
-                 C#m     F#m
+                 |C#|m     |F#|m
     Your name is lifted high
-        D       E    A
+        |D|       |E|    |A|
    And You are glorified.
 
 2. Lord, let Your pow’r flow
