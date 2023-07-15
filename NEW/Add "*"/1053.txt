@@ -1,22 +1,22 @@
 Chorus:
-       E     A      B         C#m
+       |E|     |A|      |B|         |C#|m
    Consuming fire, fill this place;
-              A      E/G#
+              |A|      |E|/|G#|
    Let Your glory descend
-         F#m        B
+         |F#|m        |B|
    As we give You praise.
-       E      A      F#m
+       |E|      |A|      |F#|m
    Consuming fire, revive,
-     B         E
+     |B|         |E|
    Revive us again.
 
-    E                  B
+    |E|                  |B|
 1. Lord, Your love is fire;
-         E                B
+         |E|                |B|
    Penetrate our souls today.
-       E         A         G#m   C#m
+       |E|         |A|         |G#|m   |C#|m
    Restore the flame, and let it grow
-                     A    A/B - B7
+                     |A|    |A|/|B| - |B|7
    Until others are set ablaze.
 
 2. Lord, ignite our hearts;
