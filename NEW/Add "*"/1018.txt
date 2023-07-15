@@ -1,30 +1,30 @@
-    C          F
+    |C|          |F|
 1. Toiling in life,
-             G          C
+             |G|          |C|
     gaining nothing in hand,
-            F
+            |F|
    Feeling sorrows
-           G           C
+           |G|           |C|
     that plague every man;
-           F        C
+           |F|        |C|
    Though many do faint
-        E            Am
+        |E|            |A|m
     and others complain,
-           F
+           |F|
    Oh, but I trust
-         G            C
+         |G|            |C|
     in that precious name.
 
 Chorus:
-     C/E     F       G/B      C
+     |C|/|E|     |F|       |G|/|B|      |C|
    I rest assured, I will be home—
-                F  -G          C
+                |F|  -|G|          |C|
    No more the pain, no more alone.
-                F  -G               Em-Am
+                |F|  -|G|               |E|m-|A|m
    I will not faint; I’ll run this race.
-                Dm
+                |D|m
    My joy shall be
-        G                C
+        |G|                |C|
     to see my Savior’s face.
 
 2. Years fade away,
@@ -56,6 +56,6 @@ Final Chorus:
    The angels sing,
     the saints enthroned.
    The King of kings,
-          E      Am-D/F#
+          |E|      |A|m-|D|/|F#|
     Who died for me—
    My Love, my Joy for all eternity.
