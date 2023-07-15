@@ -1,14 +1,14 @@
-    C                 F     C
+    |C|                 |F|     |C|
 1. I know that my Redeemer lives!
-   C               Am
+   |C|               |A|m
    What joy this blest
-       Dm7     G
+       |D|m7     |G|
     assurance gives!
-   C         G    C
+   |C|         |G|    |C|
    He lives, He lives,
-        F          G
+        |F|          |G|
     Who once was dead;
-   C   F             C   G  C
+   |C|   |F|             |C|   |G|  |C|
    He lives, my everlasting Head.
 
 2. He lives, triumphant
