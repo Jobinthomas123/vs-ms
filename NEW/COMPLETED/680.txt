@@ -1,12 +1,12 @@
-    |C|              |A|m   |F|
-1. Crown Him with many crowns—
+    |C|              |A|*m*   |F|
+*1.* Crown Him with many crowns—
         |C|     |F|         |G|
    The Lamb upon His throne.
-          |C|       |A|m
+          |C|       |A|*m*
    Hark! How the heavenly
      |D|        |G|
     anthem drowns
-        |D|    |D|7      |G|
+        |D|    |D|*7*      |G|
    All music but its own.
      |C|                 |F|
    Awake, my soul, and sing
@@ -19,7 +19,7 @@
            |F|    |G|    |C|
    Through all eternity.
 
-2. Crown Him the Lord of life,
+*2.* Crown Him the Lord of life,
    Who triumped o’er the grave,
    And rose victorious in the strife
    For those He came to save.
@@ -28,7 +28,7 @@
    Who died eternal life to bring,
    And lives that death may die.
 
-3. Crown Him the Lord of peace,
+*3.* Crown Him the Lord of peace,
    Whose power a scepter sways,
    From pole to pole,
     that wars may cease
@@ -38,7 +38,7 @@
    Fair flowers of paradise extend
    Their fragrance ever sweet.
 
-4. Crown Him the Lord of love;
+*4.* Crown Him the Lord of love;
    Behold His hands and side.
    Those wounds, yet visible above,
    In beauty glorified.
