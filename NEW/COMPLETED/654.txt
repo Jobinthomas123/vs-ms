@@ -1,5 +1,5 @@
-Chorus:
-   x2
+*Chorus:*
+   *x2*
     |E|
    Go forth!
                        |B|
@@ -7,15 +7,15 @@ Chorus:
 
    Go forth!
                     |E|
-   The enemy must flee. x2
+   The enemy must flee. *x2*
 
        |E|
-1. The Israelites were held as slaves
+*1.* The Israelites were held as slaves
                        |B|
    By Pharoah and his host,
 
    But when they cried unto the Lord,
-       B7                 |E|
+       |B|*7*                 |E|
    He hearkened to their voice.
           |E|
    Oh, free at last till the Red Sea,
@@ -23,12 +23,12 @@ Chorus:
    Where Pharoah, he drew near;
 
    But Moses cried unto the Lord,
-         B7           |E|
+         |B|*7*           |E|
    God spoke into his ear.
 
    He said:
 
-2. God led them to Mt. Sinai;
+*2.* God led them to Mt. Sinai;
    A mighty host were they.
    His glory dwelt within their midst
    To guide them all the way.
@@ -38,7 +38,7 @@ Chorus:
    I’ll lead you all the way.”
    He said:
 
-3. At Jericho they stood in awe;
+*3.* At Jericho they stood in awe;
    Its walls reached to the sky.
    His word was march,
     and that they did;
@@ -51,14 +51,14 @@ Chorus:
    He’ll lead you all the way.
    He says:
 
-Last Chorus:
-   x2
+*Last Chorus:*
+   *x2*
    Go forth!
    I’ve given you the victory;
    Go forth!
-   The enemy must flee. x2
+   The enemy must flee. *x2*
 
-Ending:
+*Ending:*
    And we’ll … Go forth!
    He’s given us the victory!
    Go forth!
