@@ -1,30 +1,30 @@
 Chorus:
-              C          G
+              |C|          |G|
    Bless the Lord, O my soul,
-       F                C
+       |F|                |C|
    And all that is within me
-   Dm               G
+   |D|m               |G|
    Bless His holy name.
-               C         G
+               |C|         |G|
    Bless the Lord, O my soul,
-        F               C
+        |F|               |C|
    And all that is within me
-    Dm        G     C
+    |D|m        |G|     |C|
    Bless His holy name.
 
-                 G
+                 |G|
 1. Let’s not forget
-     G/B                C
+     |G|/|B|                |C|
    All of His gracious benefits:
-                F
+                |F|
    Our sins forgiven
-    G                C
+    |G|                |C|
    And our sickness healed.
-                 F      G
+                 |F|      |G|
    The crown of lovingkindness
-               Em       Am
+               |E|m       |A|m
    He’s placed on our heads;
-         D                  G
+         |D|                  |G|
    With joy our hearts can sing.
 
 2. He will not chide
