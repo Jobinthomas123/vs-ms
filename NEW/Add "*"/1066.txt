@@ -1,24 +1,24 @@
-     F                Bb
+     |F|                |Bb|
 1. When dark shadows fall
 
     around me,
-     F      F/A       C7     F
+     |F|      |F|/|A|       |C|7     |F|
    When the day turns into night
-        F/A      Bb      Gm
+        |F|/|A|      |Bb|      |G|m
    I am safe within His keeping
-   F/C      Dm     Gm  C   F
+   |F|/|C|      |D|m     |G|m  |C|   |F|
    For He draws me to His side.
 
 Chorus:
-   F         F/A   Bb         Gm
+   |F|         |F|/|A|   |Bb|         |G|m
    Ever faithful through the fury,
-    F/C        Dm
+    |F|/|C|        |D|m
    Through the fire and
-      G7          C7
+      |G|7          |C|7
     through the flood
-   F         F/A Bb     Gm
+   |F|         |F|/|A| |Bb|     |G|m
    I am trusting as He guides me
-   F/C   Dm          Gm   C7  F
+   |F|/|C|   |D|m          |G|m   |C|7  |F|
    Ever faithful through His love.
 
 2. Looking back, I see more clearly
@@ -28,11 +28,11 @@ Chorus:
    He has never failed me yet.
 
 Bridge:
-    F        Bb/F
+    |F|        |Bb|/|F|
    Savior, Redeemer,
-    G7              Eb – C/E
+    |G|7              |Eb| – |C|/|E|
    Comforter and Friend
-     F       Bb/F
+     |F|       |Bb|/|F|
    Healer, Provider,
-    G7             Eb – C/E
+    |G|7             |Eb| – |C|/|E|
    Time and time again
