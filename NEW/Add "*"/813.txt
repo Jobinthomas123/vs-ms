@@ -1,24 +1,24 @@
 Chorus:
-     E                        B
+     |E|                        |B|
    There is power, there is fire,
-             A
+             |A|
    There is power in the
-     B               E —A — E
+     |B|               |E| —|A| — |E|
     presence of the Lord.
-                             B
+                             |B|
    There is power, there is fire,
-             A
+             |A|
    There is power in the
-      B           E
+      |B|           |E|
     name of the Lord.
 
-    E           B
+    |E|           |B|
 1. Call on His name;
-    A                E
+    |A|                |E|
    He will set you free.
-    E7              A
+    |E|7              |A|
    You won’t be the same;
-            F#                B4—B
+            |F#|                |B|4—|B|
    He will give you the victory.
 
 2. His precious blood
