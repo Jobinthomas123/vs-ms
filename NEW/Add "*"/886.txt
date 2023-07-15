@@ -1,18 +1,18 @@
-   E     A   E              B
+   |E|     |A|   |E|              |B|
 1. Guide me, O Thou great Jehovah,
-   E          A     F#m   E B   E
+   |E|          |A|     |F#|m   |E| |B|   |E|
    Pilgrim through this barren land.
-     A  E                  B
+     |A|  |E|                  |B|
    I am weak, but Thou art mighty;
-   E        A        E   B    E
+   |E|        |A|        |E|   |B|    |E|
    Hold me with Thy pow’rful hand.
-    B       B7
+    |B|       |B|7
    Bread of Heaven,
-   E
+   |E|
    Bread of Heaven,
-    E      F#m             E   B
+    |E|      |F#|m             |E|   |B|
    Feed me till I want no more.
-   E       A       E   B7 E
+   |E|       |A|       |E|   |B|7 |E|
    Feed me till I want no more.
 
 2. Open now the crystal fountain,
