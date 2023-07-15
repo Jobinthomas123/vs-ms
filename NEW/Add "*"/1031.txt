@@ -1,31 +1,31 @@
 Chorus:
-         E       A    E
+         |E|       |A|    |E|
 At the shout of victory
-         A                B4   -B
+         |A|                |B|4   -|B|
 Every stronghold will be broken.
-      C#m     B/D#        E
+      |C#|m     |B|/|D#|        |E|
 Every mountain will come down
-          A              B4 -B
+          |A|              |B|4 -|B|
 When the word of God is spoken.
-         A/C#          B/D#
+         |A|/|C#|          |B|/|D#|
 Let the sea be driven back
-         A                F#
+         |A|                |F#|
 At the presence of the Jehovah;
-         A/C#                 B/D#
+         |A|/|C#|                 |B|/|D#|
 Let the trees now clap their hands
-         A               B4 -B
+         |A|               |B|4 -|B|
 And the people shout for joy,
-                   E
+                   |E|
 For the victory’s won!
 
-   C#m
-1.Battles are raging on;
- A                  B
-You shall not be defeated.
-C#m
-Calvary did it all;
- A              B4   -B
-Victory was completed.
+    |C#|m
+1. Battles are raging on;
+    |A|                  |B|
+   You shall not be defeated.
+   |C#|m
+   Calvary did it all;
+    |A|              |B|4   -|B|
+   Victory was completed.
 
 2. The blood of the Lamb prevails
    O’er all the powers of darkness.
