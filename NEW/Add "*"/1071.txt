@@ -1,26 +1,26 @@
 Chorus:
-              E
+              |E|
    He said, “Come,
-    A          E/G#
+    |A|          |E|/|G#|
    Anyone who wants
-          C#m
+          |C#|m
     must deny himself,
-     A           B           E – E/G#
+     |A|           |B|           |E| – |E|/|G#|
    Take up his cross, follow Me;
-       A          C#m
+       |A|          |C#|m
    No matter the cost
-           A         B
+           |A|         |B|
    Be my heart, my hands,
-         A
+         |A|
     my voice.”
 
-    E          Esus4        E
+    |E|          |E|sus4        |E|
 1. How are we living for Christ?
-   E/G#        A           B
+   |E|/|G#|        |A|           |B|
    How are we living for Christ?
-     C#m      B           A    E/G#
+     |C#|m      |B|           |A|    |E|/|G#|
    Following Him we will sacrifice
-   F#m                    B
+   |F#|m                    |B|
    But are we willing to die?
 
 2. God gives the strength that it takes
@@ -44,19 +44,19 @@ Chorus:
    Be my heart, my hands, my voice.
 
 Bridge:
-    C#m              B
+    |C#|m              |B|
    Whoever wants to save
-                   A
+                   |A|
     his life will lose it;
-    C#m              B
+    |C#|m              |B|
    Whoever wants to save
-                   A
+                   |A|
     his life will lose it.
-    C#m               B
+    |C#|m               |B|
    Whoever loses his life
-                      A
+                      |A|
     for my sake will find it;
-    C#m               B
+    |C#|m               |B|
    Whoever loses his life
-                      A
+                      |A|
     for my sake will find it.
