@@ -1,32 +1,32 @@
-(Intro: Dm—F—G4—G)
-Chorus:
-      |C|     |A|m     |G|
+*(Intro:* |D|*m—*|F|*—*|G|*4—*|G|*)*
+*Chorus:*
+      |C|     |A|*m*     |G|
    Jehovah God Who reigns,
-           |F|        |D|m      |C|
+           |F|        |D|*m*      |C|
    Speaks words of peace today;
-            |A|m     |G|
+            |A|*m*     |G|
    Jehovah God Who reigns,
      |F|       |G|     |C|
    Abide in me I pray.
 
-     |C|                  |E|m
-1. “Peace I leave with you;
+     |C|                  |E|*m*
+*1.* “Peace I leave with you;
                |F|
    My peace I give,
-       |F|/|G|                 |C|
+       |F|*/*|G|                 |C|
    Not as the world would give
               |F|
    Give I to you.
 
    Let not your heart be now,
-        |E|m   |A|m
+        |E|*m*   |A|*m*
     be now afraid.”
-         |D|m       |F|
+         |D|*m*       |F|
    You spoke and said
-                 |G| — |G|4 — |G|
+                 |G| *—* |G|*4 —* |G|
    You’d come again.
 
-2. You called to me by name,
+*2.* You called to me by name,
    Told me to come
    And follow in Your way,
    Take up the cross,
@@ -34,7 +34,7 @@ Chorus:
    Please come renew
     my strength again.
 
-3. O Lord, when I’m afraid,
+*3.* O Lord, when I’m afraid,
    I wait on You
    For comfort in my soul.
    It is Your peace,
