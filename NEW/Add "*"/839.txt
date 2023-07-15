@@ -1,28 +1,28 @@
-       A            D
+       |A|            |D|
 1. My soul shouts glory
-            A
+            |A|
     to the Son of God
-                      F#m        Bm E
+                      |F#|m        |B|m |E|
    For the work that grace hath done;
-       A          A7
+       |A|          |A|7
    My faith looks upward
-             D       Bm7
+             |D|       |B|m7
     with a steadfast eye
-              A          E       A
+              |A|          |E|       |A|
    That is clear as the noonday sun.
 
 Chorus:
-         E-E7        A
+         |E|-|E|7        |A|
    Hallelujah! Hallelujah!
-                      F#m       Bm E
+                      |F#|m       |B|m |E|
    Hallelujah to the Savior I adore;
-            A    A7
+            |A|    |A|7
    I will praise Him.
-            D    Bm7
+            |D|    |B|m7
    I will praise Him.
-         A
+         |A|
    Hallelujah!
-              E             A
+              |E|             |A|
     I will praise Him evermore.
 
 2. My soul shouts glory
