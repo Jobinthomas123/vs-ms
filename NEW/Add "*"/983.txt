@@ -1,33 +1,33 @@
-(Key of A)
-                       D
+(Key of |A|)
+                       |D|
 1. You gave up Your throne
-        A/C#
+        |A|/|C#|
     in heaven;
-                     Bm         Em
+                     |B|m         |E|m
    You left all Your glory for shame.
-        A           D          A/C#
+        |A|           |D|          |A|/|C#|
    You lived out a life of perfection;
-           Bm
+           |B|m
    And You ask me
-                   E
+                   |E|
     to follow Your way.
 
 Chorus:
-            D
+            |D|
    So I’ll follow You
-                  A/C#
+                  |A|/|C#|
     through the storms;
-         D
+         |D|
    I’ll follow You through
-        F#m
+        |F#|m
     the dark nights.
-        D
+        |D|
    You followed the path
-          C#        F#m
+          |C#|        |F#|m
     that led to the cross.
-       Bm      E        G       E
+       |B|m      |E|        |G|       |E|
    For me You died, to save my life,
-            D   –  A
+            |D|   –  |A|
    So I’ll follow.
 
 2. You said to me, “It won’t be easy,
@@ -44,15 +44,15 @@ Chorus:
    But I know Who holds my hand.
 
 Bridge:
-             C#m           F#m
+             |C#|m           |F#|m
    I may not know where to turn;
-             C#m          F#m
+             |C#|m          |F#|m
    I may not know whom to run to,
-                      Bm
+                      |B|m
    But You’ve said to Me:
-                A/C#
+                |A|/|C#|
     “I’ll never fail;
-            D
+            |D|
    I am the One Who has called you
-        E
+        |E|
     My own”.
