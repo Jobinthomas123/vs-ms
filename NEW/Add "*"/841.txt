@@ -1,34 +1,34 @@
-        E                 A   B E
+        |E|                 |A|   |B| |E|
 1. The power that fell at Pentecost
-        A             E
+        |A|             |E|
    When in the upper room.
-    B
+    |B|
    Upon the watching,
-     E
+     |E|
     waiting ones
-        F#             B
+        |F#|             |B|
    The Holy Ghost had come—
-      E      A   E
+      |E|      |A|   |E|
    Remaineth evermore the same,
-               C#m
+               |C#|m
    Unchanging still,
-      F#m    B   E
+      |F#|m    |B|   |E|
     O praise His name.
 
 Chorus:
 
    The pow’r, the pow’r,
-         A           E
+         |A|           |E|
     the Pentecostal pow’r,
-       B             B7
+       |B|             |B|7
    Is just the same today,
-        E
+        |E|
     is just the same today.
-                   E7
+                   |E|7
    The pow’r, the pow’r,
-         A           E
+         |A|           |E|
     the Pentecostal pow’r,
-      E/B      A/B    E
+      |E|/|B|      |A|/|B|    |E|
    Is just the same today.
 
 2. “Ye shall have power,”
