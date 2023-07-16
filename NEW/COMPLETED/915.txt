@@ -1,19 +1,19 @@
-   (|D|)    |A|      |D|
-1. Blest be the God
+   *(*|D|*)*    |A|      |D|
+*1.* Blest be the God
          |G|          |A|        |D|
     of heav’n and earth and sea—
-      |A|/|C#|  |B|m7        |E|    |A|4 -|A|
+      |A|*/*|C#|  |B|*m7*        |E|    |A|*4 -*|A|
    He Who inhabiteth eternity.
         |D|       |G|
    The God of truth,
-         |D|   |B|m7   |A|4 -|A|
+         |D|   |B|*m7*   |A|*4 -*|A|
     without iniquity,
-     |F#|/|A#|   |B|m-|B|m/|A|
+     |F#|*/*|A#|   |B|*m-*|B|*m/*|A|
    I bow and worship,
-    |G|       |A|   |D|4 -|D|
+    |G|       |A|   |D|*4 -*|D|
     O most Holy One.
 
-2. Most precious Lord,
+*2.* Most precious Lord,
     there is no other name
    Under the heav’ns
     whereby we can be saved.
@@ -22,7 +22,7 @@
    Great God and Savior,
     our Emmanuel.
 
-3. O Israel, behold
+*3.* O Israel, behold
     Messiah, your King.
    Thou dying Gentile race,
     arise and sing!
@@ -31,7 +31,7 @@
    In one accord
     that Jesus is the Lamb.
 
-4. Thy holy Word
+*4.* Thy holy Word
     is filled with truth and grace;
    Let “Yea” and “Amen”
     now complete our days.
@@ -40,7 +40,7 @@
    “Let it be done!”
     thus saith the Lord of hosts.
 
-5. He sits as King
+*5.* He sits as King
     upon the throne divine.
    God only wise,
     this glory all be Thine!
