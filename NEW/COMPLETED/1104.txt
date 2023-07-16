@@ -1,8 +1,8 @@
                |G|
-1. There’s a country far beyond
+*1.* There’s a country far beyond
 
     the starry sky;
-              |D|7
+              |D|*7*
    There’s a city where there
                     |G|
     never comes a night.
@@ -10,30 +10,30 @@
    If we’re faithful we shall go there
            |G|
     by and by;
-            |A|m              |D|7
+            |A|*m*              |D|*7*
    'Tis the city where the Lamb
             |G|
     is the light.
 
-Chorus:
-            |G|              |C|/|D|
+*Chorus:*
+            |G|              |C|*/*|D|
    In that city where the Lamb
             |G|
     is the light,
-      |E|m                |A|7
+      |E|*m*                |A|*7*
    The city where there cometh
          |D|
     no night.
             |C|
    I will dwell with Jesus there,
-             |G|                  |E|m
+             |G|                  |E|*m*
    And when free from toil and care,
-         |A|m              |D|7
+         |A|*m*              |D|*7*
    I am going where the Lamb
- G
+ |G|
     is the light.
 
-2. Here we have our days
+*2.* Here we have our days
     of sunshine, but we know
    That the sun which shines upon us
     now so bright,
@@ -42,7 +42,7 @@ Chorus:
    To the city where the Lamb
     is the light.
 
-3. There the flowers bloom
+*3.* There the flowers bloom
     forever and the day
    Shall be one eternal day
     without a night;
@@ -51,7 +51,7 @@ Chorus:
    In that city where the Lamb
     is the light.
 
-4. Here we have our disappointments
+*4.* Here we have our disappointments
     all the while,
    And our fondest hopes but meet
     with bitter blight.
@@ -60,7 +60,7 @@ Chorus:
    In that city where the Lamb
     is the light.
 
-5. Then let sunlight fade,
+*5.* Then let sunlight fade,
     let twilight bring its gloom,
    Not a shadow can my blissful
     soul affright;
