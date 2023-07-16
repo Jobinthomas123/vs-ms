@@ -1,20 +1,20 @@
-Chorus:
+*Chorus:*
               |C|          |G|
    Bless the Lord, O my soul,
        |F|                |C|
    And all that is within me
-   |D|m               |G|
+   |D|*m*               |G|
    Bless His holy name.
                |C|         |G|
    Bless the Lord, O my soul,
         |F|               |C|
    And all that is within me
-    |D|m        |G|     |C|
+    |D|*m*        |G|     |C|
    Bless His holy name.
 
                  |G|
-1. Let’s not forget
-     |G|/|B|                |C|
+*1.* Let’s not forget
+     |G|*/*|B|                |C|
    All of His gracious benefits:
                 |F|
    Our sins forgiven
@@ -22,12 +22,12 @@ Chorus:
    And our sickness healed.
                  |F|      |G|
    The crown of lovingkindness
-               |E|m       |A|m
+               |E|*m*       |A|*m*
    He’s placed on our heads;
          |D|                  |G|
    With joy our hearts can sing.
 
-2. He will not chide
+*2.* He will not chide
    Nor keep His anger ever;
    He does not deal
    According to our sins.
@@ -35,7 +35,7 @@ Chorus:
    Are above the earth
    His mercy ever rings.
 
-3. From out of darkness
+*3.* From out of darkness
    Jesus has redeemed our lives,
    To walk in light
    And serve Him joyfully
@@ -43,7 +43,7 @@ Chorus:
    For all our days
    Until His face we see.
 
-4. Even in the midst of trials
+*4.* Even in the midst of trials
    He is with us;
    His loving hand is guiding
    All the way.
@@ -51,7 +51,7 @@ Chorus:
    We’ll come forth as gold
    By His amazing grace.
 
-5. The mercies of our God
+*5.* The mercies of our God
    Are never-ending;
    From age to age
    His love is still the same.
@@ -59,7 +59,7 @@ Chorus:
    He’s faithful to complete;
    He’s worthy of all praise.
 
-6. The coming of our Lord
+*6.* The coming of our Lord
    Is soon approaching;
    We’re looking for the mercy
    Of our King,

@@ -1,46 +1,46 @@
-(Key of |E|)
-      |C#|m         |B|
-1. You see each sparrow
+*(Key of* |E|*)*
+      |C#|*m*         |B|
+*1.* You see each sparrow
           |A|
     that falls,
-       |C#|m       |B|/|D#|    |E|
+       |C#|*m*       |B|*/*|D#|    |E|
    You hear each time I call,
-                 |F#|m
+                 |F#|*m*
    Lord, there’s nothing
-    |E|/|G#|       |B|
+    |E|*/*|G#|       |B|
     You can’t do
                    |A|
    And though You let
-               |E|/|G#|
+               |E|*/*|G#|
    The sparrows fall,
-            |F#|7            |B|
+            |F#|*7*            |B|
    When You let my pain go on,
-   |E|/|G#|             |F#|m
+   |E|*/*|G#|             |F#|*m*
    I’ll know You’re working
-      |B|7      |E|
+      |B|*7*      |E|
    Through it all.
 
-Chorus:
-   |A|/|B|         |E|                    |A|
+*Chorus:*
+   |A|*/*|B|         |E|                    |A|
    Jesus, it’s all a part of Your plan
-                   |C#|m
+                   |C#|*m*
    Just like those nails
           |B|             |A|
    They placed in Your hands.
-              |C#|m
+              |C#|*m*
    And when I can’t seem
-             |B|/|D#|
+             |B|*/*|D#|
     to understand,
-         |G#|7
+         |G#|*7*
    You remind me
-                    |C#|m
+                    |C#|*m*
    That I’m in Your hands;
-    |E|/G#|      |F#|m
+    |E|*/*|G#|      |F#|*m*
    So I’ll be still
          |B|            |E|
    And trust in Your will.
 
-2. You bore my sorrows
+*2.* You bore my sorrows
     and griefs,
    You know my every need;
    Lord, there’s nothing
@@ -50,7 +50,7 @@ Chorus:
    You’re my comfort in each one;
    So I say “Let Your will be done.”
 
-3. You turned the water to wine,
+*3.* You turned the water to wine,
    The dead You raised to life;
    Lord, there’s nothing
     You can’t do.
