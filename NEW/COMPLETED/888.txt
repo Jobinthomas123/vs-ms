@@ -1,11 +1,11 @@
-Chorus:
+*Chorus:*
     |A|           |D|      |E|          |A|
    You are the Potter; I am the clay.
                   |D|
    You’re the Refiner;
     |G|                |E|
     Lord, have Your way.
-    |D|         |E|      |A|           |F#|m
+    |D|         |E|      |A|           |F#|*m*
    Make me a vessel fit for Your use;
     |D|         |E|
    Make me a vessel
@@ -13,10 +13,10 @@ Chorus:
     that glorifies You.
 
    |G|
-1. Change me, Lord;
+*1.* Change me, Lord;
         |D|           |A|
     I yield now to You.
-   |F#|m             |E|            |A|
+   |F#|*m*             |E|            |A|
    My desire’s to be just like You.
     |G|
    Cleanse me, Lord;
@@ -25,7 +25,7 @@ Chorus:
    |G|              |D|         |E|
    I would be a channel for You.
 
-2. Fill me, Lord,
+*2.* Fill me, Lord,
     with Your life anew;
    Lord, give me a heart that is true.
    Use me, Lord,

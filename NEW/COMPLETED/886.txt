@@ -1,21 +1,21 @@
    |E|     |A|   |E|              |B|
-1. Guide me, O Thou great Jehovah,
-   |E|          |A|     |F#|m   |E| |B|   |E|
+*1.* Guide me, O Thou great Jehovah,
+   |E|          |A|     |F#|*m*   |E| |B|   |E|
    Pilgrim through this barren land.
      |A|  |E|                  |B|
    I am weak, but Thou art mighty;
    |E|        |A|        |E|   |B|    |E|
    Hold me with Thy pow’rful hand.
-    |B|       |B|7
+    |B|       |B|*7*
    Bread of Heaven,
    |E|
    Bread of Heaven,
-    |E|      |F#|m             |E|   |B|
+    |E|      |F#|*m*             |E|   |B|
    Feed me till I want no more.
-   |E|       |A|       |E|   |B|7 |E|
+   |E|       |A|       |E|   |B|*7* |E|
    Feed me till I want no more.
 
-2. Open now the crystal fountain,
+*2.* Open now the crystal fountain,
    Whence the healing stream
     doth flow;
    Let the fire and cloudy pillar
@@ -26,7 +26,7 @@
    Be Thou still my Strength
     and Shield.
 
-3. When I tread the verge of Jordan,
+*3.* When I tread the verge of Jordan,
    Bid my anxious fears subside;
    Bear me through
     the swelling current—
@@ -35,7 +35,7 @@
    I will ever give to Thee;
    I will ever give to Thee.
 
-4. Musing on my habitation,
+*4.* Musing on my habitation,
    Musing on my heav’nly home,
    Fills my soul with holy longings:
    Come, my Jesus, quickly come.

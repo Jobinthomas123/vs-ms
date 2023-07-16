@@ -1,8 +1,8 @@
         |D|
-1. We praise You, O Lord,
+*1.* We praise You, O Lord,
                      |A|
    For Your great salvation
-            |A|7
+            |A|*7*
    Shown in every place,
                  |D|
     to all generations.
@@ -10,22 +10,22 @@
    We praise You, O Lord,
                        |A|
    For Your great salvation
-            |A|7
+            |A|*7*
    Shown in every place,
                  |D|
     to all generations.
 
-Chorus:
-   |D    |B|m  |E|m
+*Chorus:*
+   |D|    |B|*m*  |E|*m*
    We exalt You, our God.
-   |A|   |A|7      |D|     |G|   |A|
+   |A|   |A|*7*      |D|     |G|   |A|
    We give You honor.
-   |D|    |B|m       |E|m
+   |D|    |B|*m*       |E|*m*
    We praise and lift You high.
-   |B|m |A|     |D|
+   |B|*m* |A|     |D|
    Be magnified!
 
-2. We praise You, O Lord,
+*2.* We praise You, O Lord,
    For Your lovingkindness
    Reaching to our hearts,
     a love that’s unceasing.
@@ -34,7 +34,7 @@ Chorus:
    Reaching to our hearts,
     a love that’s unceasing.
 
-3. We praise You, O Lord,
+*3.* We praise You, O Lord,
    For unending mercies;
    They are ever new,
     though we’re undeserving.
@@ -43,7 +43,7 @@ Chorus:
    They are ever new,
     though we’re undeserving.
 
-4. We praise You, O Lord,
+*4.* We praise You, O Lord,
    For joy everlasting.
    What was mourning, now
     You’ve turned into dancing.
