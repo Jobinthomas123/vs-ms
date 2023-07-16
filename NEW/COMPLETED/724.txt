@@ -1,16 +1,16 @@
     |C|
-1. Come, Thou Fount of
+*1.* Come, Thou Fount of
              |G|
     every blessing,
             |F|         |G|        |C|
    Tune my heart to sing Thy grace;
-       |C|              |C|/|E|   |G|
+       |C|              |C|*/*|E|   |G|
    Streams of mercy, never ceasing,
              |F|        |G|        |C|
    Call for songs of loudest praise.
-                   |F|/|C|         |C|
+                   |F|*/*|C|         |C|
    Teach me some melodious sonnet,
-                     |F|/|C|      |C|
+                     |F|*/*|C|      |C|
    Sung by flaming tongues above;
       |G|        |C|
    Praise the mount—
@@ -19,7 +19,7 @@
               |F|    |G|       |C|
    Mount of Thy redeeming love.
 
-2. Here I raise mine Ebenezer;
+*2.* Here I raise mine Ebenezer;
    Hither by Thy help I’m come.
    And I hope by Thy good pleasure,
    Safely to arrive at home.
@@ -28,7 +28,7 @@
    He, to rescue me from danger,
    Interposed His precious blood.
 
-3. O to grace how great a debtor,
+*3.* O to grace how great a debtor,
    Daily I’m constrained to be!
    Let Thy goodness, like a fetter,
    Bind my wandering heart to Thee.

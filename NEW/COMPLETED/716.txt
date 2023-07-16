@@ -1,29 +1,29 @@
    |E|
-1. Once like a bird in prison I dwelt;
-                |A|7     |E|     |A|  |E|
+*1.* Once like a bird in prison I dwelt;
+                |A|*7*     |E|     |A|  |E|
    No freedom from my sorrow I felt,
-                                  |C#|m
+                                  |C#|*m*
    But Jesus came and listened to me,
-         |E|       |C#|m   |F#|m-|A|    |E|
+         |E|       |C#|*m*   |F#|*m-*|A|    |E|
    And glory to God, He set  me free.
 
-Chorus:
-   |E|           |E|7
+*Chorus:*
+   |E|           |E|*7*
    He set me free one day;
-    |A|         |F|3m7
+    |A|         |F|*3m7*
     He set me free!
-   |E|             |C#|m
+   |E|             |C#|*m*
    He broke the bars of
      |F#|         |B|
     prison for me!
-    |E|          |E|7
+    |E|          |E|*7*
    One day in glory
-    |A|                |F#|m
+    |A|                |F#|*m*
     His face I shall see.
-     |E|         |C#|m  |F#|m |B|       |E|
+     |E|         |C#|*m*  |F#|*m* |B|       |E|
    Glory be to God! He set me free!
 
-2. Now I am climbing
+*2.* Now I am climbing
     higher each day;
    Darkness of night has drifted
     away.
@@ -32,7 +32,7 @@ Chorus:
    And glory to God,
     I’m homeward bound!
 
-3. Goodbye to sin
+*3.* Goodbye to sin
     and things that confound;
    Naught of the world
     shall turn me around.
