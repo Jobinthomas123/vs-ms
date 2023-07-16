@@ -6,11 +6,11 @@ The time has come,
 Arise to favor Zion.
 
 In Your glory You’ll appear;
-|A|7                   |D|
+|A|*7*                   |D|
 Arise and build up Zion.
 
 We will lift up Your praise
- |D|7        |G|
+ |D|*7*        |G|
  in Jerusalem.
                        |D|
 O Lord, we plead for Zion;
@@ -25,18 +25,18 @@ O Lord, we plead for Zion;
 Open the doors,
           |D|
  set the captives free,
-  |A|                        |D|   |D|7
+  |A|                        |D|   |D|*7*
 Hear our prayer, bring us liberty!
     |G|
 Restore us, Lord;
          |D|
  we cry out to You.
-          |B|m
+          |B|*m*
 Come and visit us;
       |G|        |A|      |D|
 It’s time for You to work!
 
-Spanish:
+*Spanish:*
 
 Ha llegado ya, para Sión,
 El tiempo ha llegado.

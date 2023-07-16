@@ -1,34 +1,34 @@
-(Key of |D|)
-Chorus:
+*(Key of* |D|*)*
+*Chorus:*
               |G|        |D|
    Bless the Lord, O my soul;
-   |A|/|C#|  |B|m
+   |A|*/*|C#|  |B|*m*
    O my soul,
-    |G|         |D|     |A|sus4-|A|
+    |G|         |D|     |A|*sus4-*|A|
    Worship His holy name.
-              |G|       |B|m
+              |G|       |B|*m*
    Sing like never before,
-   |G| |A|   |B|m
+   |G| |A|   |B|*m*
    O my soul.
          |G|           |A|   |D|
    I'll worship Your holy name.
 
         |G|        |D|
-1. The sun comes up;
-          |A|       |B|m
+*1.* The sun comes up;
+          |A|       |B|*m*
    It’s a new day dawning.
- |G|-              |D|         |A|     |B|m
+ |G|*-*              |D|         |A|     |B|*m*
    It’s time to sing Your song again.
        |G|         |D|
    Whatever may pass,
-          |A|/|C#|          |B|m
+          |A|*/*|C#|          |B|*m*
    And whatever lies before me–
- |G|-           |D|
+ |G|*-*           |D|
    Let me be singing
-            |A|sus4-|A|  |D|
+            |A|*sus4-*|A|  |D|
    When the evening comes.
 
-2. You’re rich in love,
+*2.* You’re rich in love,
    And You’re slow to anger.
    Your name is great,
    And Your heart is kind.
@@ -37,7 +37,7 @@ Chorus:
    Ten thousand reasons
    For my heart to find.
 
-3. And on that day
+*3.* And on that day
    When my strength is failing,
    The end draws near
    And my time has come,
