@@ -1,25 +1,25 @@
 *Chorus:*
    *x2*
-     |E|*m*
+     |4|*m*
    Call unto Me,
-              |D|
+              |2|
    And I will answer you
-                  |C|
+                  |0|
    And show you great
-        |D|       |E|*m*
+        |2|       |4|*m*
    And mighty things! *x2*
 
-   |C|
+   |0|
 *1.* Eye has not seen
-         |D|
+         |2|
     nor ear has heard
-   |C|         |D|                 |E|*m*
+   |0|         |2|                 |4|*m*
    All that I’ve prepared for you;
-   |C|
+   |0|
    Eye has not seen
-         |D|
+         |2|
     nor ear has heard
-   |C|                         |B|*-*|B|*7*
+   |0|                         |11|*-*|11|*7*
    All that My Spirit shall do!
 
 *2.* Have I not said, will I not do
