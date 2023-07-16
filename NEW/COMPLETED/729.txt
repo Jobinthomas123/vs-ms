@@ -1,37 +1,37 @@
     |A|
-1. Jesus, I love Thee,
-    |A|7       |D|     |B|m7
+*1.* Jesus, I love Thee,
+    |A|*7*       |D|     |B|*m7*
     O how I love Thee—
-                  |A|  |F#|m
+                  |A|  |F#|*m*
    Love Thee for dying,
-             |B|m7—|E|
+             |B|*m7—*|E|
     me to redeem.
                   |A|
    Thou Who for sin was
-      |A|7        |D|   |B|m7
+      |A|*7*        |D|   |B|*m7*
     slain upon Calv’ry,
-            |A|    |F#|m
+            |A|    |F#|*m*
    How I delight to
-      |B|m7     |E|7   |A|
+      |B|*m7*     |E|*7*   |A|
     trust in Thy name.
 
-Chorus:
+*Chorus:*
     |A|
    Jesus, I love Thee,
-    |A|7       |D|     |B|m7
+    |A|*7*       |D|     |B|*m7*
     O how I love Thee!
-             |E|        |E|7       |A|
+             |E|        |E|*7*       |A|
    Glory to God—from sin I am free!
-                 |A|/|C#|
+                 |A|*/*|C#|
    Trusting Thy grace to
-     |A|7       |D|   |B|m7
+     |A|*7*       |D|   |B|*m7*
     keep me forever,
-                |A|     |F#|m
+                |A|     |F#|*m*
    Jesus, henceforth, I
-     |B|m7     |E|7    |A|
+     |B|*m7*     |E|*7*    |A|
     live but for Thee.
 
-2. Jesus, I love Thee,
+*2.* Jesus, I love Thee,
     O how I love Thee!
    Yet ‘tis Thy grace that
     maketh it so;
@@ -40,7 +40,7 @@ Chorus:
    Giving my heart this
     heavenly glow.
 
-3. Jesus, I love Thee,
+*3.* Jesus, I love Thee,
     O how I love Thee—
    Love Thee because Thou
     first lovedst me.
@@ -49,7 +49,7 @@ Chorus:
    Dying, from sin my
     soul to make free.
 
-4. Jesus, I love Thee,
+*4.* Jesus, I love Thee,
     O how I love Thee!
    How could I bear to
     live without Thee?
