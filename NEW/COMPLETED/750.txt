@@ -1,27 +1,27 @@
-Chorus:
-            |D|m           |G|m        |D|m
+*Chorus:*
+            |D|*m*           |G|*m*        |D|*m*
    For His grace is sufficient for me,
 
    And His presence will meet
            |A|
     every need;
-       |G|m           |D|m
+       |G|*m*           |D|*m*
    For by His power I will overcome.
-             |B|b          |A|          |D|m
+             |B|*b*          |A|          |D|*m*
    Yes, His grace is sufficient for me.
 
-         |D|m              |G|m
+         |D|*m*              |G|*m*
 1. And though the battle rage
-          |D|m
+          |D|*m*
     all around me,
                                   |A|
    And there be fears within, without,
-        |G|m                   |D|m
+        |G|*m*                   |D|*m*
    His Spirit will surely uphold me;
-        |B|b   |A|                 |D|m
+        |B|*b*   |A|                 |D|*m*
    I’ll overcome all fear and doubt.
 
-2. And when the enemy comes
+*2.* And when the enemy comes
     against me,
    And clouds and darkness
     fill my view,
@@ -29,14 +29,14 @@ Chorus:
    His power and love
     will see me through.
 
-3. Though all the ones I love
+*3.* Though all the ones I love
     may forsake me,
    And there be none to lend
     their hand,
    The Lord will surely be near me,
    And by His grace I shall stand.
 
-4. For God will perfect that which
+*4.* For God will perfect that which
     concerns me;
    All that He’s promised He’ll do.
    The Lord will surely complete

@@ -1,25 +1,25 @@
-            |E|2
-1. Here is love
-                |A|    —|F#|m7
+            |E|*2*
+*1.* Here is love
+                |A|    *—*|F#|*m7*
     vast as the ocean,
-          |E|       |C#|m     |F#|m—B
+          |E|       |C#|*m*     |F#|*m—B*
    Lovingkindness as the flood;
-              |E|2
+              |E|*2*
    When the Prince of life,
-         |A|    —|F#|m7
+         |A|    *—*|F#|*m7*
     our ransom,
-            |E|  |C#|m  |F#|m7      |E|
+            |E|  |C#|*m*  |F#|*m7*      |E|
    Shed for us His precious blood.
                             |B|
    Who His love will not remember?
-           |F#|m7 -|B|              |E|
+           |F#|*m7* *-*|B|              |E|
    Who can cease  to sing His praise?
-   |B|        |E|           |A|    —|F#|m
+   |B|        |E|           |A|    *—*|F#|*m*
    He will never be forgotten
-      |A|m7      |E|          |B|      |E|
+      |A|*m7*      |E|          |B|      |E|
    Throughout heaven’s eternal days.
 
-2. On the mount of crucifixion,
+*2.* On the mount of crucifixion,
    Fountains opened deep and wide;
    Thru the floodgates of
     God’s mercy
@@ -30,7 +30,7 @@
     perfect justice
    Kissed a guilty world in love.
 
-3. Let me all Thy love accepting,
+*3.* Let me all Thy love accepting,
    Love Thee, ever all my days;
    Let me seek Thy kingdom only
    And my life be to Thy praise.
@@ -40,7 +40,7 @@
     and sanctified me;
    Thou Thyself hast set me free.
 
-4. In Thy truth
+*4.* In Thy truth
     Thou doest direct me,
    By Thy Spirit
     through Thy Word;

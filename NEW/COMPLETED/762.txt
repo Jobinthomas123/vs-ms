@@ -1,21 +1,21 @@
      |D|           |A|       |D|
-1. Thou, my everlasting portion,
-                        |B|m      |E|m—|A|
+*1.* Thou, my everlasting portion,
+                        |B|*m*      |E|*m—*|A|
    More than friend or life to me;
-         |D|        |D|7     |G|     —|G|m
+         |D|        |D|*7*     |G|     *—*|G|*m*
    All along my pilgrim journey,
-           |D|      |A|7         |D|
+           |D|      |A|*7*         |D|
    Savior let me walk with Thee.
-     |D|        |A|     |A|7       |D|
+     |D|        |A|     |A|*7*       |D|
    Close to Thee, close to Thee,
-            |D|/|F#|   |B|m       |E|m7—|A|
+            |D|*/*|F#|   |B|*m*       |E|*m7—*|A|
    Close to Thee, close to Thee—
-         |D|       |D|7      |G|     —|G|m
+         |D|       |D|*7*      |G|     *—*|G|*m*
    All along my pilgrim journey,
-            |D|      |A|7         |D|
+            |D|      |A|*7*         |D|
    Savior, let me walk with Thee.
 
-2. Not for ease or worldly pleasure,
+*2.* Not for ease or worldly pleasure,
    Nor for fame my pray’r shall be;
    Gladly will I toil and suffer,
    Only let me walk with Thee.
@@ -24,7 +24,7 @@
    Gladly will I toil and suffer,
    Only let me walk with Thee.
 
-3. Lead me thru the vale of shadows;
+*3.* Lead me thru the vale of shadows;
    Bear me o’er life’s fitful sea.
    Then the gate of life eternal
    May I enter, Lord, with Thee.
