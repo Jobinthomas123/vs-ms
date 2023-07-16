@@ -1,35 +1,35 @@
                  |A|
-1. Embrace the cross
-                |D| - |A|
+*1.* Embrace the cross
+                |D| *-* |A|
    Where Jesus suffered,
-                  |F#|m
+                  |F#|*m*
    Though it will cost
              |D|       |E|
    All you claim as yours.
-              |F#|m             |D|
+              |F#|*m*             |D|
    Your sacrifice will seem small
                 |A|
    Beside the treasure;
-    |F#|m            |A|
+    |F#|*m*            |A|
    Eternity can't measure
-        |B|m              |E|
+        |B|*m*              |E|
    What Jesus holds in store.
 
-Chorus:
-   |F#|m            |E|          |D|
+*Chorus:*
+   |F#|*m*            |E|          |D|
    Oh, wondrous cross, our desires
              |A|
     rest in you.
-        |B|m      |E|       |D|--|A|
+        |B|*m*      |E|       |D|*--*|A|
    Lord Jesus, make us bolder
-   |F#|m           |E|            |D|
+   |F#|*m*           |E|            |D|
    To face with courage the shame
              |A|
     and disgrace
-        |B|m    |B|          |E|
+        |B|*m*    |B|          |E|
    You bore upon Your shoulder.
 
-2. Embrace the love
+*2.* Embrace the love
    The cross requires;
    Cling to the One
    Whose heart knew every pain.
@@ -38,7 +38,7 @@ Chorus:
    Only He can fashion
    Our hearts to move as His.
 
-3. Embrace the life
+*3.* Embrace the life
    That comes from dying;
    Come trace the steps
    The Savior walked for you.
@@ -47,9 +47,9 @@ Chorus:
    Endure then till tomorrow
    Your cross of suffering.
 
-TOMA LA CRUZ
+*TOMA LA CRUZ*
 
-1. Toma la cruz, la cruz de Cristo,
+*1.* Toma la cruz, la cruz de Cristo,
    Un precio habrá:
     todo dar a Dios,
    Tu sacrificio verás,
@@ -57,14 +57,14 @@ TOMA LA CRUZ
    Al lado de riquezas,
     que Cristo nos guardó.
 
-Coro:
+*Coro:*
    Preciosa cruz, descansamos en ti,
    Dios, haznos más valientes,
    Para enfrentar la vergüenza
     y el mal,
    Que a hombros Tú cargaste.
 
-2. Toma el amor
+*2.* Toma el amor
    La cruz requiere;
    Asir a Dios
    El Cual por ti murió.
@@ -72,7 +72,7 @@ Coro:
    El es Quien moldea
    Tu corazón a Dios.
 
-3. Toma el vivir
+*3.* Toma el vivir
    Que hay en la muerte,
    Pisando allí
    Donde por ti pisó.
