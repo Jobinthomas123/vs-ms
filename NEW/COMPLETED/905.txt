@@ -1,41 +1,41 @@
-    |D|        |A|/|C#|            |B|m
+    |D|        |A|*/*|C#|            |B|*m*
 1. Lord, my trials seem like giants,
-         |A|m7        |D|      |G|
+         |A|*m7*        |D|      |G|
    And I hear them tell me I can’t
-   |D|/|F#|            |E|m7   |E|m7/|A|
+   |D|*/*|F#|            |E|*m7*   |E|*m7/*|A|
    Serve You faithfully.
-   |G|/|B|  |A|/|C#|  |D|
+   |G|*/*|B|  |A|*/*|C#|  |D|
    Then Your voice
-   |A|/|C#|              |B|m
+   |A|*/*|C#|              |B|*m*
    Comes to me like thunder,
-           |A|m7      |D|           |G|
+           |A|*m7*      |D|           |G|
    And it  fills my heart with wonder
-      |D|/|F#|            |E|2/|G#|   |E|2/|A|
+      |D|*/*|F#|            |E|*2/*|G#|   |E|*2/*|A|
    To hear You say to me:
 
-Chorus:
+*Chorus:*
             |D|
    You are Mine;
-                   |E|m7
+                   |E|*m7*
    In you I’ll be glorified.
             |A|
    You are Mine,
-                |G|m           |D|
+                |G|*m*           |D|
    For you are graven in My hands.
-        |A|/|C#|    |B|m
+        |A|*/*|C#|    |B|*m*
    I’ll not forsake you,
           |A|
    Never leave you,
             |G|
    I will strengthen,
-              |B|m/|F#|
+              |B|*m/*|F#|
    Yes, I’ll keep you.
-           |E|m                 |A|
+           |E|*m*                 |A|
    I have called you by your name;
-            |D|  |G|2/|B| |A|2/|C#|
+            |D|  |G|*2/*|B| |A|*2/*|C#|
    You are Mine.
 
-2. Lord, I have nothing
+*2.* Lord, I have nothing
     I can give You,
    But a life for You to live through,
    So have Your way in me.
@@ -44,7 +44,7 @@ Chorus:
    Let alone that You would use me,
    And say these words to me:
 
-3. Lord, I’m before
+*3.* Lord, I’m before
     Your throne of grace,
    Knowing You’ve prepared a place
    There next to You for me.
@@ -54,9 +54,9 @@ Chorus:
    To hear You say to me:
 
 
-ERES MÍO
+*ERES MÍO*
 
-1. Señor, gigantescas son mis
+*1.* Señor, gigantescas son mis
     pruebas,
    Y me dicen que no puedo
    Servirte hasta el fin.
@@ -65,7 +65,7 @@ ERES MÍO
    Y en mi ser me maravillo
    Al oirte decir:
 
-Coro:
+*Coro:*
    Eres Mío,
    Mi gloria en ti mostraré.
    Eres Mío,
@@ -75,7 +75,7 @@ Coro:
    Por tu nombre te llamé
    En Mi amor.
 
-2. Señor, nada tengo para darte,
+*2.* Señor, nada tengo para darte,
    Pero quiero que Tu cumplas
    Tu voluntad en mí.
    Me asombro,
@@ -83,7 +83,7 @@ Coro:
    Y tambien que Tu me uses,
    Y me digas hoy a mí:
 
-3. Señor, ante el trono me encuentro,
+*3.* Señor, ante el trono me encuentro,
    Y yo sé que me preparas
    Un lugar junto a Ti.
    Mi corazón
