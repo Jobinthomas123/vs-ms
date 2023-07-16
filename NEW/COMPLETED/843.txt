@@ -1,35 +1,35 @@
-     |A|           |D|       |A|    |A|7
-1. Why should I feel discouraged?
-    |D|               |B|m7   |A|
+     |A|           |D|       |A|    |A|*7*
+*1.* Why should I feel discouraged?
+    |D|               |B|*m7*   |A|
    Why should the shadows come?
-   |F#|7                     |B|m
+   |F#|*7*                     |B|*m*
    Why should my heart be lonely
-    |D|            |E|          |A|  |E|7
+    |D|            |E|          |A|  |E|*7*
    And long for heav’n and home
-         |A|    |B|m7    |A|
+         |A|    |B|*m7*    |A|
    When Jesus is my Portion?
-                |A|7       |D| - |B|m
+                |A|*7*       |D| *-* |B|*m*
    My constant Friend is He.
-       |E|     |E|/|D|       |A|     |F#|m
+       |E|     |E|*/*|D|       |A|     |F#|*m*
    His eye is on the sparrow,
-           |A|      |E|7      |A|
+           |A|      |E|*7*      |A|
    And I know He watches me.
-       |A|7              |D|    |B|m
+       |A|*7*              |D|    |B|m
    His eye is on the sparrow,
-           |A|      |E|7      |A|
+           |A|      |E|*7*      |A|
    And I know He watches me.
 
-Chorus:
-      |E|      |E|7        |A|
+*Chorus:*
+      |E|      |E|*7*        |A|
    I sing because I’m happy;
-      |E|      |E|7         |A|
+      |E|      |E|*7*         |A|
    I sing because I’m free,
-                  |A|7       |D|     |D|m
+                  |A|*7*       |D|     |D|*m*
    For His eye is on the sparrow,
            |A|      |E|       |A|
    And I know He watches me.
 
-2. “Let not your heart be troubled,”
+*2.* “Let not your heart be troubled,”
    His tender words I hear;
    And resting on His goodness
    I lose my doubt and fear.
@@ -40,7 +40,7 @@ Chorus:
    His eye is on the sparrow,
    And I know He watches me.
 
-3. Whenever I am tempted,
+*3.* Whenever I am tempted,
    Whenever clouds arise,
    When songs give place to sighing,
    When hope within me dies—
@@ -51,7 +51,8 @@ Chorus:
    His eye is on the sparrow,
    And I know He cares for me.
 
-1. ¿Cómo podré estar triste?
+
+*1.* ¿Cómo podré estar triste?
    Cómo entre sombras ir
    Cómo sentirme solo,
    Y en el dolor vivir;
@@ -62,13 +63,13 @@ Chorus:
    Si aún las aves tienen
    Seguro asilo en El?
 
-Coro:
+*Coro:*
    Feliz, cantando alegre,
    Yo vivo siempre aquí:
    Si El cuida de las aves,
    ¡Cuidará también de mí!
 
-2. “Nunca te desalientes,”
+*2.* “Nunca te desalientes,”
    Oigo al Señor decir,
    Y en su Palabra fiado,
    Hago al dolor huir.
@@ -79,7 +80,7 @@ Coro:
    Y todas Sus bondades
    Me da sin limitar.
 
-3. Siempre que soy tentado
+*3.* Siempre que soy tentado
    O que en la sombra estoy,
    Más cerca de El camino
    Y protegido voy;

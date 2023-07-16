@@ -1,6 +1,6 @@
    |D|  |A|  |D|
-1. O my soul,
-      |G|        |D|          |A|-|D|
+*1.* O my soul,
+      |G|        |D|          |A|*-*|D|
     arise and bless your Maker,
        |G|  |D|
    For He is
@@ -10,22 +10,22 @@
    Slow to wrath,
          |G|       |D|      |A|
     but rich in tender mercy—
-    |D|           |B|m     |E|m-|D|
+    |D|           |B|*m*     |E|*m-*|D|
    Worship the Savior, Jesus.
 
-Chorus:
-       |G|       |D|       |F#|m     |B|m
+*Chorus:*
+       |G|       |D|       |F#|*m*     |B|*m*
    And I will sing for all my days
        |G|        |D|         |A|
    Of heaven’s love come down;
           |G|       |D|
    Each breath I take
-          |F#|m        |B|m
+          |F#|*m*        |B|*m*
     will speak His praise
       |G|       |D|       |A|
    Until He calls me home.
 
-2. King of grace,
+*2.* King of grace,
     His love is overwhelming;
    Bread of Life,
     He’s all I’ll ever need,
@@ -33,7 +33,7 @@ Chorus:
     has purchased me forever—
    Bought at the cross of Jesus.
 
-3. When I wake,
+*3.* When I wake,
     I know that He is with me;
    When I’m weak,
     I know that He is strong.
@@ -41,7 +41,7 @@ Chorus:
     His arm is there to lean on—
    Safe on the Rock of Jesus.
 
-4. Stir in me
+*4.* Stir in me
     the songs that You are singing;
    Fill my gaze
     with things as yet unseen.
@@ -49,7 +49,7 @@ Chorus:
     to move in works of power,
    Making me more like Jesus.
 
-5. Then one day,
+*5.* Then one day,
     I’ll see Him as He sees me—
    Face to face,
     the Lover and the loved.
