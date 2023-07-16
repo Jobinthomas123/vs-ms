@@ -1,5 +1,5 @@
      |C|
-1. Though the fig tree shall not
+*1.* Though the fig tree shall not
       |G|
     blossom
             |F|                   |C|
@@ -8,34 +8,34 @@
    Though the labor of the olive fail,
        |F|                      |C|
    The fields shall yield no food,
-              |D|m7
+              |D|*m7*
    Though the flock be cut off
       |G|
     from the fold,
          |F|                 |C|
    The stalls be void and cold,
-             |D|m7—|G|            |C|
+             |D|*m7—*|G|            |C|
    I will rejoice;  I will rejoice.
 
-Chorus:
-   |C|7        |F|            |G|/|F|
+*Chorus:*
+   |C|*7*        |F|            |G|*/*|F|
    I will rejoice in the Lord;
-      |E|m7                 |A|m
+      |E|*m7*                 |A|*m*
    He is my strength and song.
-             |F|            |G|/|F|
+             |F|            |G|*/*|F|
    I will rejoice in the Lord;
-       |E|m7                    |A|m
+       |E|*m7*                    |A|*m*
    He makes my weak hands strong.
-             |F|          |F|/|G|
+             |F|          |F|*/*|G|
    I will rejoice in my God;
-         |C|                |A|m
+         |C|                |A|*m*
    He’s Lord of all creation.
-           |D|m7
+           |D|*m7*
    I will joy in the
-     |G|     |G|7     |C|
+     |G|     |G|*7*     |C|
     God of my salvation.
 
-2. Though my heart be cold and
+*2.* Though my heart be cold and
     empty
    And my soul downcast within,
    Though my strength be lost,
@@ -46,7 +46,7 @@ Chorus:
     within my frame so frail,
    I will rejoice; I will rejoice.
 
-3. Though I stand alone on
+*3.* Though I stand alone on
     barren ground
    And all forsake my side,
    Though the only friends who
@@ -57,7 +57,7 @@ Chorus:
    From me have turned and fled,
    I will rejoice; I will rejoice.
 
-4. For the Lord, He is my Savior;
+*4.* For the Lord, He is my Savior;
    Yes, the Lord, He is my stay.
    He will make my feet
     like hind’s feet,

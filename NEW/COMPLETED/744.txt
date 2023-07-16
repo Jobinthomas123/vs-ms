@@ -1,35 +1,35 @@
-Chorus:
-    |E|     |E|/|G#|  |B|        |B|/|D#|
+*Chorus:*
+    |E|     |E|*/*|G#|  |B|        |B|*/*|D#|
    Come, Lord, Come Lord Jesus;
-         |A|              |E|    |E|/|G#|
+         |A|              |E|    |E|*/*|G#|
    The Spirit and the bride say,
-      |F#|   |F#|/|A#|  |B|4——|B|
+      |F#|   |F#|*/*|A#|  |B|*4——*|B|
     “Come, Lord   Jesus.”
-    |E|    |E|/|G#|   |B|         |B|/|D#|
+    |E|    |E|*/*|G#|   |B|         |B|*/*|D#|
    Come, Lord, Come, Lord Jesus;
          |A|              |B|
    The Spirit and the bride
           |E|
     say, Come!
 
-  |C#|m7               |C#|m/B
+  |C#|*m7*               |C#|*m/*|B|
 1. When the trumpet sounds
-                |A|maj7        |B|4—|B|
+                |A|*maj7*        |B|*4—*|B|
    The dead in Christ shall rise,
-  |C#|m7         |C#|m/|B|
+  |C#|*m7*         |C#|*m/*|B|
    Then we who are alive
-              |D|              |B|4—|B|
+              |D|              |B|*4—*|B|
     will be caught up in the air.
   |A|           |B|
    We’ll be forever,
-       |E|    |B|/|D#|      |C#|m
+       |E|    |B|*/*|D#|      |C#|*m*
     forever with the Lord;
   |A|                 |B|
    We’ll serve our Bridegroom
-         |E|—|A|/|B|
+         |E|*—*|A|*/*|B|
     evermore.
 
-2. Our tears He’ll wipe away;
+*2.* Our tears He’ll wipe away;
    Our sorrow He’ll erase
    In that holy city,
     God’s eternal dwelling place.
@@ -37,7 +37,7 @@ Chorus:
     the victories of His grace;
    His mercies, they will never fail.
 
-3. Holy city, pure and clear,
+*3.* Holy city, pure and clear,
    Gushing river of delights,
    No more darkness, no more curse,
     city of the overcomers,
