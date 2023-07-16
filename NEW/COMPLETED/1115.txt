@@ -1,15 +1,15 @@
-Chorus:
+*Chorus:*
                |D|
    It will be worth it all
-              |E|m
+              |E|*m*
     to see my Jesus;
                |A|
    It will be worth it all
                            |D|
     just to see His face alone.
-       |A|/|D|     |D|
+       |A|*/*|D|     |D|
    It will be worth it all
-              |E|m
+              |E|*m*
     to see my Jesus
            |G|              |A|
    In His glory and His splendor
@@ -17,14 +17,14 @@ Chorus:
     on His throne.
 
                                |D|
-1. I will walk the streets of heaven
+*1.* I will walk the streets of heaven
       |G|          |A|
     leaping for joy,
      |G|               |A|
    Shouting highest praises
      |G|              |D|
     to the King of kings.
-          |E|m                 |D|
+          |E|*m*                 |D|
    I will give Him all the glory
         |G|                |A|
     for all that He has done,
@@ -33,7 +33,7 @@ Chorus:
         |G|       |A|      |D|
     My joy has just begun!
 
-2. Oh, my heart could ne’er imagine
+*2.* Oh, my heart could ne’er imagine
     what He’s prepared
    For all those who love Him
     throughout eternity.

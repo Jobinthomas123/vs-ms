@@ -1,31 +1,31 @@
           |C|
-1. To the work! To the work!
+*1.* To the work! To the work!
 
    We are servants of God;
-          |G|sus4       |D|7
+          |G|*sus4*       |D|*7*
    Let us follow the paths
-             |G|          |G|7
+             |G|          |G|*7*
    That our Master has trod.
              |C|
    With the balm of His counsel,
 
    Our strength to renew;
-          |G|sus4        |D|7
+          |G|*sus4*        |D|*7*
    Let us do with our might
-             |G|            |G|7
+             |G|            |G|*7*
    What our hands find to do.
 
-Chorus:
-            |C|           |G|sus4 - |G|
+*Chorus:*
+            |C|           |G|*sus4 -* |G|
    Toiling on...toiling on.
-           |D|m-|G|7-       |C|
+           |D|*m-*|G|*7-*       |C|
    Toiling on...toiling on.
-             -|C|/|E|        |F| -  |D|m
+             *-*|C|*/*|E|        |F| *-*  |D|*m*
    Let us hope, let us watch,
-   |E|bdim-|C|/|E|   |F|sus2     |C|/|G|-|G|7 |C|
+   |Eb|*dim-*|C|*/*|E|   |F|*sus2*     |C|*/*|G|*-*|G|*7* |C|
    And   labor till the Master comes.
 
-2. To the work! To the work!
+*2.* To the work! To the work!
    Let the hungry be fed;
    To the fountain of life
    Let the weary be led!
@@ -34,7 +34,7 @@ Chorus:
    While we herald the tidings,
    “Salvation is free!”
 
-3. To the work! To the work!
+*3.* To the work! To the work!
    There is labor for all,
    For the kingdom of darkness
    And error shall fall;
@@ -43,7 +43,7 @@ Chorus:
    In the loud-swelling chorus,
    “Salvation is free!”
 
-4. To the work! To the work!
+*4.* To the work! To the work!
    In the strength of the Lord,
    And a robe and a crown
    Shall our labor reward.
