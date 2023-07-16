@@ -1,47 +1,47 @@
-|E|2/|G#|–        |A|2
-1. I find my rest in You,
-|F#|2/|A#|–           |B|sus2–|B|/|A|
+|E|*2/*|G#|*–*        |A|*2*
+*1.* I find my rest in You,
+|F#|*2/*|A#|*–*           |B|*sus2–*|B|*/*|A|
    As You rest in me.
-|E|2/|G#|–              |A|2
+|E|*2/*|G#|*–*              |A|*2*
    My burdens don’t burden me,
-       |F#|2/|A#|
+       |F#|*2/*|A#|
    When I lay them
-            |B|sus2-|B|/|A|
+            |B|*sus2-*|B|*/*|A|
     at Your feet.
-      |E|2/|G#|
+      |E|*2/*|G#|
    The joy that Your voice brings,
-    |A|2
+    |A|*2*
    That makes my heart sing;
-       |F#|2/|A#|            |B|sus2
+       |F#|*2/*|A#|            |B|*sus2*
    The love that sets me free;
-|G#|7/|C|–              |C#|m2
+|G#|*7/*|C|*–*              |C#|*m2*
    There’s no other place that I’d
-           |B|sus2/|D#|
+           |B|*sus2/*|D#|
     rather be––
 
-Chorus:
+*Chorus:*
                     |E|
    To be where You are,
-                 |F#|m
+                 |F#|*m*
    You are the I AM,
-               |G#|m7
+               |G#|*m7*
    God in this moment,
-            |A|maj7
+            |A|*maj7*
    God with me.
-            |E|/|B|
+            |E|*/*|B|
    My Emmanuel,
-              |C|dim
+              |C|*dim*
    Just to be still,
-                 |C#|m
+                 |C#|*m*
    And hear You speak,
-              |A|6/|D|
+              |A|*6/*|D|
    Softly and tenderly––
-           |F#|m       |E|2/|G#|    |A|m6
+           |F#|*m*       |E|*2/*|G#|    |A|*m6*
    This is all the strength I need:
-          |A|2/|B|               |E|
+          |A|*2/*|B|               |E|
    Jesus, find Your rest in me.
 
-2. Lord, find Your rest in me,
+*2.* Lord, find Your rest in me,
    Make my heart Your home.
    These troubles can’t trouble me,
    When I see You on
@@ -52,39 +52,39 @@ Chorus:
    The vict’ry is sure when I’m on
     my knees.
 
-Bridge 1:
-           |C#|m          |B|/|D#|
+*Bridge 1:*
+           |C#|*m*          |B|*/*|D#|
    Yes, my jubilee has come;
-         |E|/|G#|          |A|
+         |E|*/*|G#|          |A|
    Every burden is undone.
-        |C#|m              |B|/|D#|
+        |C#|*m*              |B|*/*|D#|
    O my soul, enter your rest
-          |E|/|G#|
+          |E|*/*|G#|
    In the vict’ry
-                |A| (going to chorus: |A|/|B|)
+                |A| *(going to chorus: *|A|*/*|B|*)*
     Christ has won.
 
-Bridge 2:
-       |E|/|G#|-|A|
+*Bridge 2:*
+       |E|*/*|G#|*-*|A|
    You see me
-         |C#|m         |B|
+         |C#|*m*         |B|
    Heavy laden and torn;
-       |E|/|G#|-|A|
+       |E|*/*|G#|*-*|A|
    You call me,
-           |C#|m         |B|
+           |C#|*m*         |B|
    With my burdens to come.
-       |E|/|G#|-|A|
+       |E|*/*|G#|*-*|A|
    You draw me;
-           |C#|m         |B|
+           |C#|*m*         |B|
    In Your presence I hide.
-         |E|/|G#|-|F#|/|A#|
+         |E|*/*|G#|*-*|F#|*/*|A#|
    You revive me;
-           |A|/|B|
+           |A|*/*|B|
    By Your Spirit I will rise.
 
-JESÚS REPOSA TÚ EN MÍ (SPANISH)
+*JESÚS REPOSA TÚ EN MÍ (SPANISH)*
 
-1. Descanso encuentro en Ti,
+*1.* Descanso encuentro en Ti,
    Si reposas Tú en mí.
    Mis cargas no existen más;
    Las dejo a Tus pies.
@@ -94,7 +94,7 @@ JESÚS REPOSA TÚ EN MÍ (SPANISH)
    No hay otro lugar
    Donde quiera estar.
 
-Coro:
+*Coro:*
    Al estar donde estás,
    Eres el Yo Soy,
    En este momento,
@@ -106,7 +106,7 @@ Coro:
    Es la fuerza de mi ser,
    Jesús reposa Tú en mí.
 
-2. Encuentra reposo en mí,
+*2.* Encuentra reposo en mí,
    Mi corazón será Tu hogar.
    Turbado no puedo estar,
    Si en Tu trono estás.
@@ -116,13 +116,13 @@ Coro:
    La victoria es segura
    Al rendido estar.
 
-Puente 1:
+*Puente 1:*
    Mi jubileo llegó;
    Mis cargas desechó.
    O reposa mi alma
    En la victoria que me dió.
 
-Puente 2:
+*Puente 2:*
    Tú me ve-es
    Trabajado y cansado, Me llamas,
    Con mis cargas venir. Me acercas
