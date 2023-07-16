@@ -1,33 +1,33 @@
                |C|
-1. There is a hope
-          |D|m       |C|/|E|    |F|2
+*1.* There is a hope
+          |D|*m*       |C|*/*|E|    |F|*2*
     that burns within my heart,
-        |D|m7/|F|-|C|/|E| |D|m7
+        |D|*m7/*|F|*-*|C|*/*|E| |D|*m7*
    That gives me strength
-         |C|/|E|     |F|2     |G|sus4-|G|
+         |C|*/*|E|     |F|*2*     |G|*sus4-*|G|
     for ev’ry   passing day;
-      |F|/|A|    |G|/|B|  |C|
+      |F|*/*|A|    |G|*/*|B|  |C|
    A glimpse of glory
-     |D|m   |C|/|E|       |F|2-|G|   |A|m7
+     |D|*m*   |C|*/*|E|       |F|*2-*|G|   |A|*m7*
     now revealed in meager part,
-        |C|/|E|       |D|sus4-|D| |G|sus4-|G|
+        |C|*/*|E|       |D|*sus4-*|D| |G|*sus4-*|G|
    Yet drives all doubt   away.
-      |A|m7      |E|m/|G|
+      |A|*m7*      |E|*m/*|G|
    I stand in Christ,
-          |F|    |G|/|F|  |C|/|E|
+          |F|    |G|*/*|F|  |C|*/*|E|
     with sins forgiv’n;
-        |D|m7      |E|/|G#|
+        |D|*m7*      |E|*/*|G#|
    And Christ in me,
-        |A|m7 - |G|/|B| - |C|
+        |A|*m7 -* |G|*/*|B| *-* |C|
     the hope  of   heav’n!
-   |D|m    |C|/|E|    |F|2
+   |D|*m*    |C|*/*|E|    |F|*2*
    My  highest calling
-           |C|/|G|-|E|/|G#|-|A|m7
+           |C|*/*|G|*-*|E|*/*|G#|*-*|A|*m7*
    and my deepest   joy–
-   |F|  |C|/|G|       |G|      |C|sus4-|C|2
+   |F|  |C|*/*|G|       |G|      |C|*sus4-*|C|*2*
    To make His will my home.
 
-2. There is a hope
+*2.* There is a hope
     that lifts my weary head,
    A consolation strong against despair,
     That when the world
@@ -40,7 +40,7 @@
    For I am safe in everlasting arms,
    And they will lead me home.
 
-3. There is a hope
+*3.* There is a hope
     that stands the test of time,
    That lifts my eyes
     beyond the beck’ning grave,

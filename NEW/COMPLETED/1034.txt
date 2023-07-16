@@ -1,39 +1,39 @@
                  |E|
-1. Lord, You’re good;
-         |C#|m      |F#|m
+*1.* Lord, You’re good;
+         |C#|*m*      |F#|*m*
    Your love will never fail.
               |B|
    And Your grace,
                   |A|          |E|
    It takes me through each day.
-            |C#|m
+            |C#|*m*
    At the cross
-                |E|/|G#|    |F#|m
+                |E|*/*|G#|    |F#|*m*
    I find such perfect peace;
-             |A|/|B|            |E|
+             |A|*/*|B|            |E|
    You’re my God in You I trust.
 
-Chorus:
-            |A|/|E|       |E|
+*Chorus:*
+            |A|*/*|E|       |E|
    I will trust You, Lord;
-             |B|/|D#| - |C#|m
+             |B|*/*|D#| *-* |C#|*m*
    I give my all to You,
               |A|
    For Your thoughts
         |B|           |E|
    Are higher than mine.
-             |A|/|E|      |E|
+             |A|*/*|E|      |E|
    You will guide my feet
-         |B|/|D#|    |C#|7
+         |B|*/*|D#|    |C#|*7*
    As I look to You.
-           |F#|m        |B|sus4-|B|
+           |F#|*m*        |B|*sus4-*|B|
    I will follow this path
-            |C#|m
+            |C#|*m*
    You’ve shown;
- |E|/|G#|-   |F#|7       |A|maj7/|B|     |E|
+ |E|*/*|G#|*-*   |F#|*7*       |A|*maj7/*|B|     |E|
    I surrender and trust You, Lord.
 
-2. You have said,
+*2.* You have said,
    “Be still and know I’m God;
    Wait for Me
    To show My pow’r to you.
@@ -42,7 +42,7 @@ Chorus:
    Place your faith and trust in Me.”
    Yes...
 
-3. When life’s trials
+*3.* When life’s trials
    They seem to bring me down,
    And in times
    I can’t see through the night.

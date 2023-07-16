@@ -1,36 +1,36 @@
-(Key of |A|)
-             |F#|m              |D|maj7
-1. Lost are saved; find their way
-            |A|                 |C#|m
+*(Key of* |A|*)*
+             |F#|*m*              |D|*maj7*
+*1.* Lost are saved; find their way
+            |A|                 |C#|*m*
    At the sound of Your great name.
-           |F#|m             |D|maj7
+           |F#|*m*             |D|*maj7*
    All condemned feel no shame
-            |A|                 |E|/|G#|
+            |A|                 |E|*/*|G#|
    At the sound of Your great name.
-         |F#|m         |D|/|F#|
+         |F#|*m*         |D|*/*|F#|
    Ev’ry fear has no place
-            |A|                 |C#|m
+            |A|                 |C#|*m*
    At the sound of Your great name.
-          |F#|m            |D|/|F#|
+          |F#|*m*            |D|*/*|F#|
    The enemy, he has to leave
-            |A|                  |E|sus4-|E|
+            |A|                  |E|*sus4-*|E|
    At the sound of Your great name.
 
-Chorus:
-    |D|-|A|    |E|             |F#|m
+*Chorus:*
+    |D|*-*|A|    |E|             |F#|*m*
    Jesus, worthy is the Lamb
               |D|       |A|
    That was slain for us.
-    |E|             |F#|m
+    |E|             |F#|*m*
    Son of God and man,
             |D|               |A|
    You are high and lifted up,
-      |F#|m                   |E|
+      |F#|*m*                   |E|
    And all the world will praise
-                |D|–|A|–|E|sus4–|E|
+                |D|*–*|A|*–*|E|*sus4–*|E|
    Your great name.
 
-2. All the weak find their strength
+*2.* All the weak find their strength
    At the sound of Your great name.
    Hungry souls receive grace
    At the sound of Your great name.
@@ -40,19 +40,19 @@ Chorus:
    The dead are raised
    At the sound of Your great name.
 
-Bridge:
- |E|-         |F#|m
+*Bridge:*
+ |E|*-*         |F#|*m*
    Redeemer,   my Healer,
-    |D|     |A|/|E|-|E|
+    |D|     |A|*/*|E|*-*|E|
    Lord Almighty,
-            -|F#|m
+            *-*|F#|*m*
    My Savior,   Defender,
-   |D|      |A|/|E|  |E|
+   |D|      |A|*/*|E|  |E|
    You are my King.
 
-TU GRAN NOMBRE
+*TU GRAN NOMBRE*
 
-1. Los perdidos, salvos son
+*1.* Los perdidos, salvos son
    Al sonar de Tu nombre.
    Los condenados, libres son
    Al sonar de Tu nombre.
@@ -61,14 +61,14 @@ TU GRAN NOMBRE
    Y el enemigo tiene que huir
    Al sonar de Tu nombre.
 
-Coro:
+*Coro:*
    Jesús, digno es el Cordero
     inmolado
    Hijo de Dios,
    Exaltado eres Tu.
    El mundo adora Tu gran nombre.
 
-2. Y el débil, fuerte es
+*2.* Y el débil, fuerte es
    Al sonar de Tu nombre.
    Y Tu gracia se manifiesta
    Al sonar de Tu nombre.
@@ -78,7 +78,7 @@ Coro:
     resucitados,
    Al sonar de Tu nombre.
 
-Bridge:
+*Bridge:*
    Mi Redentor, mi Sanador,
     Poderoso,
    Mi Salvador, mi Escudo,
