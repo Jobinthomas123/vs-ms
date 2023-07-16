@@ -11,25 +11,25 @@ My heart sings––
              |D|
 I’ve been redeemed.
 
-        |B|/|D#|   |E|m7
+        |B|*/*|D#|   |E|*m7*
 Who in heav’n above
     |A|              |D|
 Or here on earth below
-   |B|/|D#|      |E|m7
+   |B|*/*|D#|      |E|*m7*
 Is like the Lord?
  |A|               |D|
 Who is like our God––
-     |F#|            |B|m
+     |F#|            |B|*m*
 The rock of our salvation,
     |E|               |A|
 The only strong foundation?
     |G|               |D|
 To whom does He compare?
-       |A|           |B|m7
+       |A|           |B|*m7*
 No one like Him anywhere––
- |E|m   |A|      |B|m7
+ |E|*m*   |A|      |B|*m7*
 Magnify the Lord!
-|E|m   |A|/|C#|     |D|
+|E|*m*   |A|*/*|C#|     |D|
 Magnify the Lord!
 
      |D|
@@ -44,5 +44,5 @@ He makes no mistakes.
 We bow down,
      |G|
 And lift Him up––
-|E|m   |A|/|C#|    |D|
+|E|*m*   |A|*/*|C#|    |D|
 Magnify the Lord!
