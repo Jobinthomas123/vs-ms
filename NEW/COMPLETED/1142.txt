@@ -1,31 +1,31 @@
-Chorus:
+*Chorus:*
         |E|
    He abides! He abides!
-        |F#|m        |B|7         |E|
+        |F#|*m*        |B|*7*         |E|
    Hallelujah, He abides with me!
-    |B|7    |E|                 |E|7
+    |B|*7*    |E|                 |E|*7*
    I’m rejoicing night and day
-         |A|              |F#|m
+         |A|              |F#|*m*
    As I walk the narrow way,
-            |B|         |B|7         |E|
+            |B|         |B|*7*         |E|
    For the Comforter abides with me.
 
-          |E|                |E|7
-1. I’m rejoicing night and day
-         |A|               |F#|m
+          |E|                |E|*7*
+*1.* I’m rejoicing night and day
+         |A|               |F#|*m*
    As I walk the pilgrim way,
-            |B|             |B|7
+            |B|             |B|*7*
    For the hand of God in all
                |E|
     my life I see.
-    |B|7      |E|            |E|7
+    |B|*7*      |E|            |E|*7*
    And the reason of my bliss,
-              |A|           |F#|m
+              |A|           |F#|*m*
    Yes, the secret all is this––
-             |B|         |B|7         |E|
+             |B|         |B|*7*         |E|
    That the Comforter abides with me.
 
-2. Once my heart was full of sin,
+*2.* Once my heart was full of sin,
    Once I had no peace within
    Till I heard how Jesus died
     upon the tree.
@@ -33,7 +33,7 @@ Chorus:
    And there came a peace so sweet;
    Now the Comforter abides with me.
 
-3. There’s no thirsting for the things
+*3.* There’s no thirsting for the things
    Of the world;
     they’ve taken wings.
    Long ago I gave them up,
@@ -42,7 +42,7 @@ Chorus:
    All my burdens rolled away;
    Now the Comforter abides with me.
 
-4. He is with me ev’rywhere,
+*4.* He is with me ev’rywhere,
    And He knows my ev’ry care.
    I’m as happy as a bird and just as free.
    For the Spirit has control,
