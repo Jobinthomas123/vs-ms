@@ -1,26 +1,26 @@
-              |A|         |A|*/*|C#|
+              |9|         |9|*/*|1|
 *1.* There’s a song in my heart
-        |B|*m*
+        |11|*m*
     that I cannot deny;
-             |E|      |B|*7*    |E|*sus*  *-* |E|
+             |4|      |11|*7*    |4|*sus*  *-* |4|
    It’s the song my Jesus gave me
-            |A|     |A|*/*|C#|
+            |9|     |9|*/*|1|
    When He lifted me out
-    |B|*m*
+    |11|*m*
     of the miry clay,
-              |E|             |A| *-* |E|*m*
+              |4|             |9| *-* |4|*m*
    And washed all my sins away.
 
 *Chorus:*
-     |A|*7*         |D| *-* |B|*m*
+     |9|*7*         |2| *-* |11|*m*
    Praise the Lord!
-                |A| *-* |F#|*m*
+                |9| *-* |6|*m*
    Praise His name!
-       |B|*m7*     |E|           |A| *-* |A|*/*|C#|
+       |11|*m7*     |4|           |9| *-* |9|*/*|1|
    He alone deserves all praise,
-             |D|          |F#|*m*
+             |2|          |6|*m*
    And this song I will raise
-          |B|*m*       |E|      |A|
+          |11|*m*       |4|      |9|
    'Til I see His loving face.
 
 *2.* Oh, this song that I sing—
