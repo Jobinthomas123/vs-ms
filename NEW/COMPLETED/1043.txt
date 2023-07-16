@@ -1,6 +1,6 @@
-           |E|         |A|/|E|
-1. To the river I am going
-             |E|            |B|/|E|
+           |E|         |A|*/*|E|
+*1.* To the river I am going
+             |E|            |B|*/*|E|
    Bringing sins I cannot bear.
               |E|
    Come and cleanse me,
@@ -9,7 +9,7 @@
             |E|       |B|         |E|
    Lord, I need to meet You there.
 
-Chorus:
+*Chorus:*
              |E|           |A|
    Precious Jesus, I am ready
           |E|            |B|
@@ -21,12 +21,12 @@ Chorus:
             |E|       |B|         |E|
    Lord, I need to meet You there.
 
-2. In these waters healing mercy
+*2.* In these waters healing mercy
    Flows with freedom from despair.
    I am going to that river;
    Lord, I need to meet You there.
 
-3. Come and join us in the river;
+*3.* Come and join us in the river;
    Come find life beyond compare.
    He is calling, He is waiting;
    Jesus longs to meet you there.

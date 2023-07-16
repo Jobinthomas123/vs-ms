@@ -1,35 +1,35 @@
-Chorus:
+*Chorus:*
     |C|
    Heal me, O Lord,
-     |F|/|A|      |G|/|B| |C|
+     |F|*/*|A|      |G|*/*|B| |C|
    And I will be healed;
-    |C|/|E|         |F|          |G|
+    |C|*/*|E|         |F|          |G|
    Save me, and I will be saved.
-     |A|m        |A|m/|G|
+     |A|*m*        |A|*m/*|G|
    I call unto You,
-        |F|           |D|/|F#|
+        |F|           |D|*/*|F#|
    For Your Word is true.
-   |F|maj7        |G|          |A|m7
+   |F|*maj7*        |G|          |A|*m7*
    Heal me, and I will be healed.
-    |D|m          |G|          |C|
+    |D|*m*          |G|          |C|
    Heal me, and I will be healed.
 
               |F|
-1. Send Your Word, Lord,
-     |D|m            |C|/|E|
+*1.* Send Your Word, Lord,
+     |D|*m*            |C|*/*|E|
    And I will be whole;
-    |C|      |A|m        |D|m         |G|
+    |C|      |A|*m*        |D|*m*         |G|
    Heal my body, my spirit, my soul.
-           |F|             |D|m
+           |F|             |D|*m*
    By the pow’r of Your Word
-      |E|m      |A|m
+      |E|*m*      |A|*m*
    It will be done;
-         |C|      |A|m7
+         |C|      |A|*m7*
    Just say the word, Lord,
-      |D|m       |G|   |C| - |F|/|A| - |G|/|B|
+      |D|*m*       |G|   |C| *-* |F|*/*|A| *-* |G|*/*|B|
    And it will be done.
 
-2. I am strengthened
+*2.* I am strengthened
    ‘Neath Your mighty wings;
    Here I’ll wait
    For the healing they bring.
@@ -38,7 +38,7 @@ Chorus:
    I’ll trust Your Word, Lord,
    As I’m waiting here.
 
-3. With my faith, Lord,
+*3.* With my faith, Lord,
    I reach out to You;
    Jesus, You’re faithful,
    And You’ll see me through.
@@ -47,7 +47,7 @@ Chorus:
    Oh touch me right now, Lord;
    It’s all that I need.
 
-4. Yahweh Rapha,
+*4.* Yahweh Rapha,
    I look unto You;
    There is no other
    That heals like You do.
