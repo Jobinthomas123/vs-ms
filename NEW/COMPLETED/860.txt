@@ -1,5 +1,5 @@
      |A|                     |D|
-1. These are the days of Elijah,
+*1.* These are the days of Elijah,
       |A|            |E|          |A|
    Declaring the Word of the Lord;
 
@@ -8,11 +8,11 @@
     of Your servant Moses—
     |A|              |E|       |A|
    Righteousness being restored.
-         |C#|m
+         |C#|*m*
    And though these
-                      |F#|m
+                      |F#|*m*
     are days of great trials—
-       |B|m        |D|
+       |B|*m*        |D|
    Of famine and darkness
           |E|
     and sword—
@@ -23,25 +23,25 @@
        |A|            |E|          |A|
    “Prepare ye the way of the Lord!”
 
-Chorus:
+*Chorus:*
       |E|        |A|
    Behold, He comes,
                     |D|
     riding on the clouds,
-                    |F#|m
+                    |F#|*m*
    Shining like the sun,
-             |B|m      |E|
+             |B|*m*      |E|
     at the trumpet call!
               |A|
    Lift your voice;
                           |D|
     it’s the Year of Jubilee.
-                 |F#|m
+                 |F#|*m*
    Out of Zion’s hill,
        |E|       |A|
     salvation comes!
 
-2. And these are the days of
+*2.* And these are the days of
     Ezekiel—
    The dry bones becoming as flesh.
    And these are the days
@@ -54,14 +54,14 @@ Chorus:
     in Your vineyard,
    Declaring the Word of the Lord.
 
-Bridge:
+*Bridge:*
 
    There’s no God like Jehovah.
 
 
-DÍAS DE ELIAS
+*DÍAS DE ELIAS*
 
-1. Días son éstos de Elías,
+*1.* Días son éstos de Elías,
    Declaran Palabra de Dios;
    Y días también de Moisés,
     Tu siervo,
@@ -72,14 +72,14 @@ DÍAS DE ELIAS
     en desierto clama,
    Prepara el camino al Señor.
 
-Coro:
+*Coro:*
    He aquí, Yeshúa viene ya,
    Brillando como el sol,
    En el cielo lo verás.
    Declara hoy, el año del Señor;
    Desde Sion llegó la salvación.
 
-2. Días de Ezquiel también llegan—
+*2.* Días de Ezquiel también llegan—
    Los huesos se llenan de piel.
    Y días también de David,
     Tu siervo—
@@ -89,6 +89,6 @@ Coro:
    Somos los obreros de Tu viña
    Declaramos hoy Tu verdad.
 
-Puente:
+*Puente:*
    Quien fue y Quien es
    y Quien ha de venir.
